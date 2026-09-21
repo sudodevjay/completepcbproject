@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\VARUN\VARUN1\VARUN ALTIUM PROJECTS\ALTIUM PROJECTS\AVCC_RS485_COM\RS485.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=rs485-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=rs485-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=rs485-rectholes.txt|DrillLayers=gtl,gbl
