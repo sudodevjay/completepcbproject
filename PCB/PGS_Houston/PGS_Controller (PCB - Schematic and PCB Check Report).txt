@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     12:38 Wednesday, February 04, 2026
+Project Path:       E:\Er.Vijay_Kushwah\PCB\designspark - Copy\PGS_Controller.prj
+Design Path:        E:\Er.Vijay_Kushwah\PCB\designspark - Copy\PGS_Controller.pcb
+Design Title:       
+Created:            03-12-2025 5.41.19 PM
+Last Saved:         04-02-2026 12.37.53 PM
+Editing Time:       1454 min
+Units:              mm (precision 1)
+
+
+Checking integrity of Schematic and Pcb designs in project "PGS_Controller"
+===========================================================================
+
+
+End Of Report.

@@ -1,0 +1,70 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     10:15 Friday, July 17, 2026
+Project Path:       E:\Er.Vijay_Kushwah\PCB\PGS_Houston\PGS_Controller.prj
+Design Path:        E:\Er.Vijay_Kushwah\PCB\PGS_Houston\PGS_Controller.pcb
+Design Title:       
+Created:            03-12-2025 5.41.19 PM
+Last Saved:         17-07-2026 10.15.20 AM
+Editing Time:       2001 min
+Units:              mm (precision 1)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        No
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+Unplated Pads                   No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
+Single Pin Net               No
+Max Vias on Net              No
+Pcb-only Nets                No
+
+
+
+End Of Report.

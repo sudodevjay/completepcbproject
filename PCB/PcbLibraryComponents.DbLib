@@ -1,0 +1,50 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MSDASQL.1;Persist Security Info=False;Extended Properties="Driver=SQLite3 ODBC Driver;Database=D:\pcblibrary\ComponentsDB.sqlite"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=SQLite
+LibraryDatabasePath=D:\pcblibrary\ComponentsDB.sqlite
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Components
+[Table1]
+SchemaName=
+TableName=Components
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=Components.ID|TableNameOnly=Components|FieldNameOnly=ID|FieldType=0|ParameterName=ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Components.Library Ref|TableNameOnly=Components|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Components.Library Path|TableNameOnly=Components|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Components.Footprint Ref|TableNameOnly=Components|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Components.Footprint Path|TableNameOnly=Components|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Components.Description|TableNameOnly=Components|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Components.Manufacturer|TableNameOnly=Components|FieldNameOnly=Manufacturer|FieldType=1|ParameterName=[Manufacturer]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Components.Manufacturer Part Number|TableNameOnly=Components|FieldNameOnly=Manufacturer Part Number|FieldType=1|ParameterName=[Manufacturer Part Number]|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Components.Value|TableNameOnly=Components|FieldNameOnly=Value|FieldType=1|ParameterName=[Value]|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Components.Package|TableNameOnly=Components|FieldNameOnly=Package|FieldType=1|ParameterName=[Package]|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Components.Folder Name|TableNameOnly=Components|FieldNameOnly=Folder Name|FieldType=1|ParameterName=[Folder Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     16:40 Saturday, December 06, 2025
+Project Path:       E:\Er.Vijay_Kushwah\PCB\designspark\PGS_Controller.prj
+Design Path:        E:\Er.Vijay_Kushwah\PCB\designspark\PGS_Controller.pcb
+Design Title:       
+Created:            03-12-2025 5.41.19 PM
+Last Saved:         06-12-2025 4.38.36 PM
+Editing Time:       1079 min
+Units:              mm (precision 1)
+
+
+End Of Report.

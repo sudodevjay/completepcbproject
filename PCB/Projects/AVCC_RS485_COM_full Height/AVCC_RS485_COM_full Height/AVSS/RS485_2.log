@@ -1,0 +1,357 @@
+P-CAD Schematic ASCII File Export Log :
+   Current document: C:\Users\Public\Documents\Altium\PCB_Project\RS485_2.sch
+   BeginLog
+      Information : 
+      Information :   Start exporting symbols
+      Information :    Exporting symbol definition(s) for component [Crystal16 MHz Ceramic Resonator]
+      Warning :     Symbol name [Crystal16 MHz Ceramic Resonator], mode [Normal], part [1] changed to [Crystal16_MHz_Ceramic_ResonaEE]
+      Warning :     Rectangle [-300mil : -200mil]-[300mil : 200mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [Terminal Block Connector]
+      Warning :     Symbol name [Terminal Block Connector], mode [Normal], part [1] changed to [Terminal_Block_Connector_1_N]
+      Warning :     Rectangle [-200mil : -100mil]-[30mil : 200mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [Crystal 16 Mhz SMD 2 pin]
+      Warning :     Symbol name [Crystal 16 Mhz SMD 2 pin], mode [Normal], part [1] changed to [Crystal_16_Mhz_SMD_2_pin_1_N]
+      Information :    Exporting symbol definition(s) for component [Dc Power Jack Connector]
+      Warning :     Symbol name [Dc Power Jack Connector], mode [Normal], part [1] changed to [Dc_Power_Jack_Connector_1_N]
+      Information :    Exporting symbol definition(s) for component [RES 0805 10K/0.25W 5%]
+      Warning :     Symbol name [RES 0805 10K/0.25W 5%], mode [Normal], part [1] changed to [RES_0805_10K/0.25W_5%_1_N]
+      Information :    Exporting symbol definition(s) for component [CAP CER 0.1uF/50V 5%]
+      Warning :     Symbol name [CAP CER 0.1uF/50V 5%], mode [Normal], part [1] changed to [CAP_CER_0.1uF/50V_5%_1_N]
+      Warning :     Rectangle [0mil : -75mil]-[25mil : 75mil] exported as lines.
+      Warning :     Rectangle [75mil : -75mil]-[100mil : 75mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [Common Mode Choke]
+      Warning :     Symbol name [Common Mode Choke], mode [Normal], part [1] changed to [Common_Mode_Choke_1_N]
+      Information :    Exporting symbol definition(s) for component [TERMINSL SCREW]
+      Warning :     Symbol name [TERMINSL SCREW], mode [Normal], part [1] changed to [TERMINSL_SCREW_1_N]
+      Warning :     Rectangle [-250mil : -200mil]-[0mil : 300mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [LM1117IMPX-5.0]
+      Warning :     Symbol name [LM1117IMPX-5.0], mode [Normal], part [1] changed to [LM1117IMPX-5.0_1_N]
+      Warning :     Rectangle [-400mil : -300mil]-[400mil : 200mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [Diode DO-214AC]
+      Warning :     Symbol name [Diode DO-214AC], mode [Normal], part [1] changed to [Diode_DO-214AC_1_N]
+      Information :    Exporting symbol definition(s) for component [OPTOCOUPLER_1]
+      Warning :     Symbol name [OPTOCOUPLER_1], mode [Normal], part [1] changed to [OPTOCOUPLER_1_1_N]
+      Warning :     Rectangle [-275mil : -200mil]-[175mil : 200mil] exported as lines.
+      Warning :     Rectangle [-15mil : -100mil]-[15mil : 100mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [ATMEGA328P-AU]
+      Warning :     Symbol name [ATMEGA328P-AU], mode [Normal], part [1] changed to [ATMEGA328P-AU_1_N]
+      Warning :     Rectangle [-400mil : -1400mil]-[400mil : 1100mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [Ferrite Bead]
+      Warning :     Symbol name [Ferrite Bead], mode [Normal], part [1] changed to [Ferrite_Bead_1_N]
+      Information :    Exporting symbol definition(s) for component [PUSH BUTTON]
+      Warning :     Symbol name [PUSH BUTTON], mode [Normal], part [1] changed to [PUSH_BUTTON_1_N]
+      Warning :     Rectangle [-200mil : -200mil]-[200mil : 200mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [OPTOCOUPLER]
+      Warning :     Symbol name [OPTOCOUPLER], mode [Normal], part [1] changed to [OPTOCOUPLER_1_N]
+      Warning :     Rectangle [-300mil : -300mil]-[300mil : 400mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [MOSFET P-CH]
+      Warning :     Symbol name [MOSFET P-CH], mode [Normal], part [1] changed to [MOSFET_P-CH_1_N]
+      Information :    Exporting symbol definition(s) for component [USB Type C]
+      Warning :     Symbol name [USB Type C], mode [Normal], part [1] changed to [USB_Type_C_1_N]
+      Warning :     Rectangle [-500mil : -700mil]-[500mil : 600mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [4PIN BURGE]
+      Warning :     Symbol name [4PIN BURGE], mode [Normal], part [1] changed to [4PIN_BURGE_1_N]
+      Warning :     Rectangle [-160mil : -150mil]-[180mil : 150mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [TVS Diode]
+      Warning :     Symbol name [TVS Diode], mode [Normal], part [1] changed to [TVS_Diode_1_N]
+      Information :    Exporting symbol definition(s) for component [REGULATOR]
+      Warning :     Symbol name [REGULATOR], mode [Normal], part [1] changed to [REGULATOR_1_N]
+      Warning :     Rectangle [-500mil : 0mil]-[300mil : 400mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [MAX485CSA]
+      Warning :     Symbol name [MAX485CSA], mode [Normal], part [1] changed to [MAX485CSA_1_N]
+      Warning :     Rectangle [300mil : -500mil]-[1000mil : 200mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [LED-0805]
+      Warning :     Symbol name [LED-0805], mode [Normal], part [1] changed to [LED-0805_1_N]
+      Information :    Exporting symbol definition(s) for component [JST_6PIN]
+      Warning :     Symbol name [JST_6PIN], mode [Normal], part [1] changed to [JST_6PIN_1_N]
+      Warning :     Rectangle [-125mil : 187.5mil]-[-62.5mil : 212.5mil] exported as lines.
+      Warning :     Rectangle [-125mil : 87.5mil]-[-62.5mil : 112.5mil] exported as lines.
+      Warning :     Rectangle [-125mil : -12.5mil]-[-62.5mil : 12.5mil] exported as lines.
+      Warning :     Rectangle [-125mil : -112.5mil]-[-62.5mil : -87.5mil] exported as lines.
+      Warning :     Rectangle [-125mil : -212.5mil]-[-62.5mil : -187.5mil] exported as lines.
+      Warning :     Rectangle [-125mil : -312.5mil]-[-62.5mil : -287.5mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [JST_4PIN]
+      Warning :     Symbol name [JST_4PIN], mode [Normal], part [1] changed to [JST_4PIN_1_N]
+      Warning :     Rectangle [-125mil : 87.5mil]-[-62.5mil : 112.5mil] exported as lines.
+      Warning :     Rectangle [-125mil : -12.5mil]-[-62.5mil : 12.5mil] exported as lines.
+      Warning :     Rectangle [-125mil : -112.5mil]-[-62.5mil : -87.5mil] exported as lines.
+      Warning :     Rectangle [-125mil : -212.5mil]-[-62.5mil : -187.5mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [JST_3PIN]
+      Warning :     Symbol name [JST_3PIN], mode [Normal], part [1] changed to [JST_3PIN_1_N]
+      Warning :     Rectangle [-125mil : 87.5mil]-[-62.5mil : 112.5mil] exported as lines.
+      Warning :     Rectangle [-125mil : -12.5mil]-[-62.5mil : 12.5mil] exported as lines.
+      Warning :     Rectangle [-125mil : -112.5mil]-[-62.5mil : -87.5mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [JST_2PIN]
+      Warning :     Symbol name [JST_2PIN], mode [Normal], part [1] changed to [JST_2PIN_1_N]
+      Warning :     Rectangle [-125mil : 87.5mil]-[-62.5mil : 112.5mil] exported as lines.
+      Warning :     Rectangle [-125mil : -12.5mil]-[-62.5mil : 12.5mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [INDUCTOR]
+      Warning :     Symbol name [INDUCTOR], mode [Normal], part [1] changed to [INDUCTOR_1_N]
+      Information :    Exporting symbol definition(s) for component [HC340C]
+      Warning :     Symbol name [HC340C], mode [Normal], part [1] changed to [HC340C_1_N]
+      Warning :     Rectangle [-400mil : -500mil]-[400mil : 900mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [OPAMP]
+      Warning :     Symbol name [OPAMP], mode [Normal], part [1] changed to [OPAMP_1_N]
+      Warning :     Rectangle [-500mil : -500mil]-[500mil : 500mil] exported as lines.
+      Information :    Exporting symbol definition(s) for component [FUSE]
+      Warning :     Symbol name [FUSE], mode [Normal], part [1] changed to [FUSE_1_N]
+      Information : Start exporting the symbol definitions for power ports
+      Warning :     End exporting the symbol defintions for power ports
+      Information :   End exporting symbols
+      Information : 
+      Information : 
+      Information :   Start exporting components
+      Information :    Exporting component [Crystal16 MHz Ceramic Resonator]
+      Warning :     Component [Crystal16 MHz Ceramic Resonator] changed to [CRYSTAL16_MHZ_CERAMIC_RESONAF3]
+      Information :    Exporting component [Terminal Block Connector]
+      Warning :     Component [Terminal Block Connector] changed to [TERMINAL_BLOCK_CONNECTOR]
+      Information :    Exporting component [Crystal 16 Mhz SMD 2 pin]
+      Warning :     Component [Crystal 16 Mhz SMD 2 pin] changed to [CRYSTAL_16_MHZ_SMD_2_PIN]
+      Information :    Exporting component [Dc Power Jack Connector]
+      Warning :     Component [Dc Power Jack Connector] changed to [DC_POWER_JACK_CONNECTOR]
+      Information :    Exporting component [RES 0805 10K/0.25W 5%]
+      Warning :     Component [RES 0805 10K/0.25W 5%] changed to [RES_0805_10K/0.25W_5%]
+      Information :    Exporting component [CAP CER 0.1uF/50V 5%]
+      Warning :     Component [CAP CER 0.1uF/50V 5%] changed to [CAP_CER_0.1UF/50V_5%]
+      Information :    Exporting component [Common Mode Choke]
+      Warning :     Component [Common Mode Choke] changed to [COMMON_MODE_CHOKE]
+      Information :    Exporting component [TERMINSL SCREW]
+      Warning :     Component [TERMINSL SCREW] changed to [TERMINSL_SCREW]
+      Information :    Exporting component [LM1117IMPX-5.0]
+      Information :    Exporting component [Diode DO-214AC]
+      Warning :     Component [Diode DO-214AC] changed to [DIODE_DO-214AC]
+      Information :    Exporting component [OPTOCOUPLER_1]
+      Information :    Exporting component [ATMEGA328P-AU]
+      Information :    Exporting component [Ferrite Bead]
+      Warning :     Component [Ferrite Bead] changed to [FERRITE_BEAD]
+      Information :    Exporting component [PUSH BUTTON]
+      Warning :     Component [PUSH BUTTON] changed to [PUSH_BUTTON]
+      Information :    Exporting component [OPTOCOUPLER]
+      Information :    Exporting component [MOSFET P-CH]
+      Warning :     Component [MOSFET P-CH] changed to [MOSFET_P-CH]
+      Information :    Exporting component [USB Type C]
+      Warning :     Component [USB Type C] changed to [USB_TYPE_C]
+      Information :    Exporting component [4PIN BURGE]
+      Warning :     Component [4PIN BURGE] changed to [4PIN_BURGE]
+      Information :    Exporting component [TVS Diode]
+      Warning :     Component [TVS Diode] changed to [TVS_DIODE]
+      Information :    Exporting component [REGULATOR]
+      Information :    Exporting component [MAX485CSA]
+      Information :    Exporting component [LED-0805]
+      Information :    Exporting component [JST_6PIN]
+      Information :    Exporting component [JST_4PIN]
+      Information :    Exporting component [JST_3PIN]
+      Information :    Exporting component [JST_2PIN]
+      Information :    Exporting component [INDUCTOR]
+      Information :    Exporting component [HC340C]
+      Information :    Exporting component [OPAMP]
+      Information :    Exporting component [FUSE]
+      Information : Start exporting component definitions for power ports
+      Warning :     End exporting component definitions for powerports
+      Information :   End exporting components
+      Information : 
+   EndLog
+   Imported succesfully!
+ 
+      Information : Start export of netlist
+      Information : Start export of component instances
+      Information : End export of component instances
+      Information : Start export of nets
+      Information : End export of nets
+      Information : End export of netlist
+      Information : Start exporting the objects for sheet [RS485_01]
+      Information : Start WIRES export
+      Information : End WIRES export
+      Information : Start BUSES export
+      Information : End BUSES export
+      Information : Start PORTS export
+      Information : End PORTS export
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     Rectangle [5000mil : 6000mil]-[8000mil : 8000mil] exported as lines.
+      Warning :     Rectangle [1000mil : 6000mil]-[3000mil : 8000mil] exported as lines.
+      Warning :     Rectangle [10000mil : 6000mil]-[12000mil : 8000mil] exported as lines.
+      Warning :     Rectangle [13000mil : 6000mil]-[14800mil : 8000mil] exported as lines.
+      Warning :     Rectangle [200mil : 3000mil]-[1200mil : 3400mil] exported as lines.
+      Warning :     Rectangle [1400mil : 3000mil]-[2600mil : 3400mil] exported as lines.
+      Warning :     Rectangle [2800mil : 3000mil]-[4000mil : 3400mil] exported as lines.
+      Warning :     Rectangle [4200mil : 3000mil]-[5400mil : 3400mil] exported as lines.
+      Warning :     Rectangle [5600mil : 3000mil]-[6900mil : 3400mil] exported as lines.
+      Warning :     Rectangle [7100mil : 3000mil]-[8300mil : 3400mil] exported as lines.
+      Warning :     Rectangle [8500mil : 3000mil]-[9700mil : 3400mil] exported as lines.
+      Warning :     Rectangle [9900mil : 3000mil]-[11100mil : 3400mil] exported as lines.
+      Warning :     Rectangle [11300mil : 3000mil]-[12300mil : 3400mil] exported as lines.
+      Warning :     Rectangle [12500mil : 3000mil]-[13600mil : 3400mil] exported as lines.
+      Warning :     Rectangle [13800mil : 3000mil]-[14800mil : 3400mil] exported as lines.
+      Information : End exporting the objects for sheet [RS485_01]
+      Information : Start exporting the objects for sheet [RS485_2]
+      Information : Start WIRES export
+      Information : End WIRES export
+      Information : Start BUSES export
+      Information : End BUSES export
+      Information : Start PORTS export
+      Information : End PORTS export
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     Exporting powerport at [4100mil : 6800mil] as component with designator [GND1]
+      Warning :     Exporting powerport at [6200mil : 6800mil] as component with designator [GND2]
+      Warning :     Exporting powerport at [3600mil : 7600mil] as component with designator [PP121]
+      Warning :     Exporting powerport at [4300mil : 5650mil] as component with designator [GND3]
+      Warning :     Exporting powerport at [2600mil : 6000mil] as component with designator [PP122]
+      Warning :     Exporting powerport at [6900mil : 1600mil] as component with designator [GND4]
+      Warning :     Exporting powerport at [3400mil : 2050mil] as component with designator [GND5]
+      Warning :     Exporting powerport at [7500mil : 2600mil] as component with designator [GND6]
+      Warning :     Exporting powerport at [3700mil : 3200mil] as component with designator [GND7]
+      Warning :     Exporting powerport at [4650mil : 2600mil] as component with designator [PVUSB1]
+      Warning :     Exporting powerport at [12600mil : 3500mil] as component with designator [PP5DC1]
+      Warning :     Exporting powerport at [12600mil : 2850mil] as component with designator [GND8]
+      Warning :     Exporting powerport at [12600mil : 1850mil] as component with designator [GND9]
+      Warning :     Exporting powerport at [8750mil : 2200mil] as component with designator [GND10]
+      Warning :     Exporting powerport at [12150mil : 7400mil] as component with designator [PP5DC2]
+      Warning :     Exporting powerport at [11000mil : 6000mil] as component with designator [GND11]
+      Warning :     Exporting powerport at [8100mil : 6550mil] as component with designator [PP5DC3]
+      Warning :     Exporting powerport at [9000mil : 5750mil] as component with designator [GND12]
+      Warning :     Exporting powerport at [7800mil : 6200mil] as component with designator [GND13]
+      Warning :     Exporting powerport at [9400mil : 7750mil] as component with designator [PP123]
+      Warning :     Exporting powerport at [12450mil : 6500mil] as component with designator [PVUSB2]
+      Warning :     Exporting powerport at [11950mil : 6700mil] as component with designator [GND14]
+      Warning :     Exporting powerport at [9400mil : 5750mil] as component with designator [GND15]
+      Warning :     Exporting powerport at [6400mil : 7600mil] as component with designator [PP51]
+      Warning :     Exporting powerport at [7800mil : 8150mil] as component with designator [PP5DC4]
+      Warning :     Exporting powerport at [2550mil : 2750mil] as component with designator [PP5DC5]
+      Warning :     Exporting powerport at [8100mil : 2200mil] as component with designator [GND16]
+      Warning :     P-CAD doesn't support object type [ParameterSet]
+      Warning :     P-CAD doesn't support object type [ParameterSet]
+      Warning :     P-CAD doesn't support object type [ParameterSet]
+      Warning :     P-CAD doesn't support object type [ParameterSet]
+      Information : End exporting the objects for sheet [RS485_2]
+      Information : Start exporting the objects for sheet [RS485_3]
+      Information : Start WIRES export
+      Information : End WIRES export
+      Information : Start BUSES export
+      Information : End BUSES export
+      Information : Start PORTS export
+      Information : End PORTS export
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     P-CAD doesn't support object type [Parameter]
+      Warning :     Exporting powerport at [5300mil : 5900mil] as component with designator [GND17]
+      Warning :     Exporting powerport at [7750mil : 8350mil] as component with designator [PP5DC6]
+      Warning :     Exporting powerport at [900mil : 8000mil] as component with designator [GND18]
+      Warning :     Exporting powerport at [1050mil : 7050mil] as component with designator [PP5DC7]
+      Warning :     Exporting powerport at [1050mil : 6000mil] as component with designator [GND19]
+      Warning :     Exporting powerport at [7300mil : 7800mil] as component with designator [GND20]
+      Warning :     Exporting powerport at [10200mil : 8750mil] as component with designator [PP5DC8]
+      Warning :     Exporting powerport at [12300mil : 7250mil] as component with designator [GND21]
+      Warning :     Exporting powerport at [12300mil : 8050mil] as component with designator [PP5DC9]
+      Warning :     Exporting powerport at [13300mil : 6700mil] as component with designator [PP5DC10]
+      Warning :     Exporting powerport at [4050mil : 3950mil] as component with designator [GND22]
+      Warning :     Exporting powerport at [4150mil : 4350mil] as component with designator [PP124]
+      Warning :     Exporting powerport at [4150mil : 3450mil] as component with designator [PP125]
+      Warning :     Exporting powerport at [3200mil : 2950mil] as component with designator [GND23]
+      Warning :     Exporting powerport at [1500mil : 3000mil] as component with designator [GND24]
+      Warning :     Exporting powerport at [1600mil : 4500mil] as component with designator [PP5DC11]
+      Warning :     Exporting powerport at [13450mil : 3600mil] as component with designator [GND25]
+      Warning :     Exporting powerport at [13550mil : 4100mil] as component with designator [PP126]
+      Warning :     Exporting powerport at [11450mil : 4750mil] as component with designator [PP5DC12]
+      Warning :     Exporting powerport at [11450mil : 3600mil] as component with designator [GND26]
+      Warning :     Exporting powerport at [4050mil : 1700mil] as component with designator [GND27]
+      Warning :     Exporting powerport at [4150mil : 2100mil] as component with designator [PP127]
+      Warning :     Exporting powerport at [4150mil : 1200mil] as component with designator [PP128]
+      Warning :     Exporting powerport at [3200mil : 700mil] as component with designator [GND28]
+      Warning :     Exporting powerport at [1500mil : 750mil] as component with designator [GND29]
+      Warning :     Exporting powerport at [1600mil : 2250mil] as component with designator [PP5DC13]
+      Warning :     Exporting powerport at [8750mil : 3850mil] as component with designator [GND30]
+      Warning :     Exporting powerport at [8850mil : 4250mil] as component with designator [PP129]
+      Warning :     Exporting powerport at [8850mil : 3350mil] as component with designator [PP1210]
+      Warning :     Exporting powerport at [7900mil : 2850mil] as component with designator [GND31]
+      Warning :     Exporting powerport at [6200mil : 2900mil] as component with designator [GND32]
+      Warning :     Exporting powerport at [6300mil : 4400mil] as component with designator [PP5DC14]
+      Warning :     Exporting powerport at [8800mil : 1750mil] as component with designator [GND33]
+      Warning :     Exporting powerport at [8900mil : 2150mil] as component with designator [PP1211]
+      Warning :     Exporting powerport at [8900mil : 1250mil] as component with designator [PP1212]
+      Warning :     Exporting powerport at [7950mil : 750mil] as component with designator [GND34]
+      Warning :     Exporting powerport at [6250mil : 800mil] as component with designator [GND35]
+      Warning :     Exporting powerport at [6350mil : 2300mil] as component with designator [PP5DC15]
+      Warning :     Exporting powerport at [13600mil : 2500mil] as component with designator [GND36]
+      Warning :     Exporting powerport at [13700mil : 2900mil] as component with designator [PP1213]
+      Warning :     Exporting powerport at [13700mil : 2000mil] as component with designator [PP1214]
+      Warning :     Exporting powerport at [12750mil : 1500mil] as component with designator [GND37]
+      Warning :     Exporting powerport at [11050mil : 1550mil] as component with designator [GND38]
+      Warning :     Exporting powerport at [11150mil : 3050mil] as component with designator [PP5DC16]
+      Information : End exporting the objects for sheet [RS485_3]
+EndLog

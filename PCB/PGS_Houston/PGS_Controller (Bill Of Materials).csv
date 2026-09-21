@@ -1,0 +1,194 @@
+Report Written:,"12:39 Saturday, February 07, 2026",,,,,,,,
+Project Path:,E:\Er.Vijay_Kushwah\PCB\designspark - Copy\PGS_Controller.prj,,,,,,,,
+Design Path:,E:\Er.Vijay_Kushwah\PCB\designspark - Copy\PGS_Controller.pcb,,,,,,,,
+Design Title:,,,,,,,,,
+Created:,03-12-2025 17.41,,,,,,,,
+Last Saved:,04-02-2026 21.21,,,,,,,,
+Editing Time:,1977 min,,,,,,,,
+Units:,mm (precision 1),,,,,,,,
+,,,,,,,,,
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb,,,,,,,,,
+--------------------------------------------------------------------------,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Ref Name,Qty,Component,Value,Package,Manufacturer,MPN,RS Part Number,Other Part Number,Description
+D4,1,1N4108,,DIOD04,,,,,
+D8,1,1N4108,,DIOD04,,,,,
+D12,1,1N4108,,DIOD04,,,,,
+D16,1,1N4108,,DIOD04,,,,,
+IC3,1,2DIB1411FXUMA1,,SOIC127P600X175-8N,Infineon,2DIB1411FXUMA1,,,Digital Isolators DIGITAL ISOLATORS
+IC4,1,2DIB1411FXUMA1,,SOIC127P600X175-8N,Infineon,2DIB1411FXUMA1,,,Digital Isolators DIGITAL ISOLATORS
+IC5,1,2DIB1411FXUMA1,,SOIC127P600X175-8N,Infineon,2DIB1411FXUMA1,,,Digital Isolators DIGITAL ISOLATORS
+IC6,1,2DIB1411FXUMA1,,SOIC127P600X175-8N,Infineon,2DIB1411FXUMA1,,,Digital Isolators DIGITAL ISOLATORS
+J2,1,54-00018,,TENSILITY_54-00018,,,,,
+IC7,1,74HC14D,,SOIC127P600X175-14N,Toshiba,74HC14D,,,Inverter Schmitt Trigger 6-Element CMOS 14-Pin SOIC T/R
+IC8,1,74HC14D,,SOIC127P600X175-14N,Toshiba,74HC14D,,,Inverter Schmitt Trigger 6-Element CMOS 14-Pin SOIC T/R
+IC9,1,74HC14D,,SOIC127P600X175-14N,Toshiba,74HC14D,,,Inverter Schmitt Trigger 6-Element CMOS 14-Pin SOIC T/R
+IC10,1,74HC14D,,SOIC127P600X175-14N,Toshiba,74HC14D,,,Inverter Schmitt Trigger 6-Element CMOS 14-Pin SOIC T/R
+D3,1,597-3305-607F,,LEDC2012X70N,,,,,
+D5,1,597-3305-607F,,LEDC2012X70N,,,,,
+D7,1,597-3305-607F,,LEDC2012X70N,,,,,
+D9,1,597-3305-607F,,LEDC2012X70N,,,,,
+D11,1,597-3305-607F,,LEDC2012X70N,,,,,
+D13,1,597-3305-607F,,LEDC2012X70N,,,,,
+D15,1,597-3305-607F,,LEDC2012X70N,,,,,
+D17,1,597-3305-607F,,LEDC2012X70N,,,,,
+D19,1,597-3305-607F,,LEDC2012X70N,,,,,
+D20,1,597-3305-607F,,LEDC2012X70N,,,,,
+D23,1,597-3305-607F,,LEDC2012X70N,,,,,
+S1,1,1241.1624.41,,1241162441,SCHURTER,1241.1624.41,,,Push button for PCB mounting
+S2,1,1241.1624.41,,1241162441,SCHURTER,1241.1624.41,,,Push button for PCB mounting
+S3,1,1241.1624.41,,1241162441,SCHURTER,1241.1624.41,,,Push button for PCB mounting
+S4,1,1241.1624.41,,1241162441,SCHURTER,1241.1624.41,,,Push button for PCB mounting
+IC2,1,AT24C512C-SSHD-T,,SOIC127P600X175-8N,Microchip,AT24C512C-SSHD-T,,,I2C-Compatible (2-wire) Serial EEPROM
+PS1,1,B0505S-W2R2,,B0505SW2R2,Mornsun Power,B0505S-W2R2,,,DC/DC Converter
+PS2,1,B0505S-W2R2,,B0505SW2R2,Mornsun Power,B0505S-W2R2,,,DC/DC Converter
+PS3,1,B0505S-W2R2,,B0505SW2R2,Mornsun Power,B0505S-W2R2,,,DC/DC Converter
+PS4,1,B0505S-W2R2,,B0505SW2R2,Mornsun Power,B0505S-W2R2,,,DC/DC Converter
+PS5,1,B0505S-W2R2,,B0505SW2R2,Mornsun Power,B0505S-W2R2,,,DC/DC Converter
+RV1,1,B72210S0350K101,,B722(12X4.8),EPCOS,B72210S0350K101,2896780P,,Epcos Standard Series Metal Oxide Varistor 2.4nF 5A 110V
+BT1,1,BatHolder CR2032,,DSC,,,,,
+Q3,1,BC847,,BC847,KEC,BC847,,,Epitaxial Planar NPN transistor
+Q5,1,BC847,,BC847,KEC,BC847,,,Epitaxial Planar NPN transistor
+C15,1,BOX_CAP,,CAPRR1500W80L1750T700H1250,,,,,
+C1,1,C,15PF,SM,,,,,Capacitor
+C2,1,C,15PF,SM,,,,,Capacitor
+C3,1,C,15PF,SM,,,,,Capacitor
+C4,1,C,15PF,SM,,,,,Capacitor
+C5,1,C,100nF,SM,,,,,Capacitor
+C6,1,C,100nF,SM,,,,,Capacitor
+C7,1,C,100nF,SM,,,,,Capacitor
+C8,1,C,100nF,SM,,,,,Capacitor
+C9,1,C,100nF,SM,,,,,Capacitor
+C10,1,C,100nF,SM,,,,,Capacitor
+C11,1,C,100nF,SM,,,,,Capacitor
+C16,1,C,100nF,SM,,,,,Capacitor
+C17,1,C,100nF,SM,,,,,Capacitor
+C18,1,C,100nF,SM,,,,,Capacitor
+C19,1,C,100nF,SM,,,,,Capacitor
+C20,1,C,100nF,SM,,,,,Capacitor
+C22,1,C,100nF,SM,,,,,Capacitor
+C23,1,C,100nF,SM,,,,,Capacitor
+C24,1,C,100nF,SM,,,,,Capacitor
+C25,1,C,100nF,SM,,,,,Capacitor
+C26,1,C,100nF,SM,,,,,Capacitor
+C28,1,C,100nF,SM,,,,,Capacitor
+C29,1,C,100nF,SM,,,,,Capacitor
+C30,1,C,100nF,SM,,,,,Capacitor
+C31,1,C,100nF,SM,,,,,Capacitor
+C32,1,C,100nF,SM,,,,,Capacitor
+C34,1,C,100nF,SM,,,,,Capacitor
+C35,1,C,100nF,SM,,,,,Capacitor
+C36,1,C,100nF,SM,,,,,Capacitor
+C37,1,C,100nF,SM,,,,,Capacitor
+C38,1,C,100nF,SM,,,,,Capacitor
+C12,1,C,100nF,SM,,,,,Capacitor
+C41,1,C,100nF,SM,,,,,Capacitor
+C42,1,C,100nF,SM,,,,,Capacitor
+C43,1,C,100nF,SM,,,,,Capacitor
+C44,1,C,100nF,SM,,,,,Capacitor
+C47,1,C,100nF,SM,,,,,Capacitor
+C48,1,C,100nF,SM,,,,,Capacitor
+C39,1,Capacitor_Pol,220uF,DSCV,,,,,
+C40,1,Capacitor_Pol,470uF,DSCV,,,,,
+PL1,1,CONN_SIL_5,,DSC,,,,,5 way Pin Header
+PL3,1,CONN_SIL_5,,DSC,,,,,5 way Pin Header
+PL4,1,CONN_SIL_5,,DSC,,,,,5 way Pin Header
+C13,1,CP 1206,1uF,SM,,,,,
+C14,1,CP 1206,1uF,SM,,,,,
+C45,1,CP 1206,1uF,SM,,,,,
+C46,1,CP 1206,1uF,SM,,,,,
+K1,1,G5LE-1-E-DC24,,G5LE1EDC12,OMRON Electronics,G5LE-1-E-DC24,,,General Purpose Relays Power PCB Relay SPDT 24VDC
+PS6,1,IL1117-3.3ET,,SOT230P695X180-4N,Semicon,IL1117-3.3ET,,,"Fixed Positive LDO Regulator, 3.3V, 1.3V Dropout, PDSO3"
+U2,1,MAX485CSA,,SO-G8_1,,MAX485CSA,,,IC TXRX RS485/RS422 LOWPWR 8SOIC
+U3,1,MAX485CSA,,SO-G8_1,,MAX485CSA,,,IC TXRX RS485/RS422 LOWPWR 8SOIC
+U4,1,MAX485CSA,,SO-G8_1,,MAX485CSA,,,IC TXRX RS485/RS422 LOWPWR 8SOIC
+U5,1,MAX485CSA,,SO-G8_1,,MAX485CSA,,,IC TXRX RS485/RS422 LOWPWR 8SOIC
+D24,1,MBRD1045G,,LM317MADTRKG,onsemi,MBRD1045G,,,Switch-mode Schottky Power Rectifier Surface Mount Power Package
+U1,1,MC42008A6W-SPTLY,,LCD_MC42008A6W-SPTLY,,,,,
+Q1,1,PC817X2NSZ9F,,DIP762W60P254L460H450Q4N,Sharp Microelectronics,PC817X2NSZ9F,,,Transistor Output Optocouplers Photocoupler
+Q2,1,PC817X2NSZ9F,,DIP762W60P254L460H450Q4N,Sharp Microelectronics,PC817X2NSZ9F,,,Transistor Output Optocouplers Photocoupler
+IC11,1,PCF8574ATD,,SOIC127P1032X265-16N,NXP,PCF8574ATD,,,INSTOCK
+R54,1,R,0E,SM,,,,,Resistor
+R8,1,R,1K,SM,,,,,Resistor
+R11,1,R,1K,SM,,,,,Resistor
+R12,1,R,1K,SM,,,,,Resistor
+R15,1,R,1K,SM,,,,,Resistor
+R18,1,R,1K,SM,,,,,Resistor
+R19,1,R,1K,SM,,,,,Resistor
+R22,1,R,1K,SM,,,,,Resistor
+R25,1,R,1K,SM,,,,,Resistor
+R26,1,R,1K,SM,,,,,Resistor
+R29,1,R,1K,SM,,,,,Resistor
+R32,1,R,1K,SM,,,,,Resistor
+R33,1,R,1K,SM,,,,,Resistor
+R35,1,R,1K,SM,,,,,Resistor
+R36,1,R,1K,SM,,,,,Resistor
+R39,1,R,1K,SM,,,,,Resistor
+R49,1,R,1K,SM,,,,,Resistor
+R50,1,R,1K,SM,,,,,Resistor
+R51,1,R,1K,SM,,,,,Resistor
+R53,1,R,3.3K,SM,,,,,Resistor
+R9,1,R,10K,SM,,,,,Resistor
+R16,1,R,10K,SM,,,,,Resistor
+R23,1,R,10K,SM,,,,,Resistor
+R30,1,R,10K,SM,,,,,Resistor
+R37,1,R,10K,SM,,,,,Resistor
+R38,1,R,10K,SM,,,,,Resistor
+R1,1,R,10K,SM,,,,,Resistor
+R2,1,R,10K,SM,,,,,Resistor
+R3,1,R,10K,SM,,,,,Resistor
+R4,1,R,10K,SM,,,,,Resistor
+R41,1,R,10K,SM,,,,,Resistor
+R42,1,R,10K,SM,,,,,Resistor
+R44,1,R,10K,SM,,,,,Resistor
+R45,1,R,10K,SM,,,,,Resistor
+R46,1,R,10K,SM,,,,,Resistor
+R47,1,R,10K,SM,,,,,Resistor
+R48,1,R,10K,SM,,,,,Resistor
+R52,1,R,10K,SM,,,,,Resistor
+R43,1,R,10K,SM,,,,,Resistor
+R13,1,R,120E,SM,,,,,Resistor
+R20,1,R,120E,SM,,,,,Resistor
+R27,1,R,120E,SM,,,,,Resistor
+R34,1,R,120E,SM,,,,,Resistor
+R7,1,R,330E,SM,,,,,Resistor
+R10,1,R,330E,SM,,,,,Resistor
+R14,1,R,330E,SM,,,,,Resistor
+R17,1,R,330E,SM,,,,,Resistor
+R21,1,R,330E,SM,,,,,Resistor
+R24,1,R,330E,SM,,,,,Resistor
+R28,1,R,330E,SM,,,,,Resistor
+R31,1,R,330E,SM,,,,,Resistor
+D1,1,S1M,,DIOM5227X270N,onsemi,S1M,,,"ON SEMICONDUCTOR - S1M - DIODE, STANDARD, 1A, 1000V, SMD"
+D2,1,S1M,,DIOM5227X270N,onsemi,S1M,,,"ON SEMICONDUCTOR - S1M - DIODE, STANDARD, 1A, 1000V, SMD"
+D21,1,S1M,,DIOM5227X270N,onsemi,S1M,,,"ON SEMICONDUCTOR - S1M - DIODE, STANDARD, 1A, 1000V, SMD"
+D25,1,S1M,,DIOM5227X270N,onsemi,S1M,,,"ON SEMICONDUCTOR - S1M - DIODE, STANDARD, 1A, 1000V, SMD"
+F1,1,SF-1206F400-2,,FUSC3116X70N,Bourns,SF-1206F400-2,,,Surface Mount Fuses 4A Fast Acting 1206 SinglFuse
+F2,1,SF-1206F400-2,,FUSC3116X70N,Bourns,SF-1206F400-2,,,Surface Mount Fuses 4A Fast Acting 1206 SinglFuse
+F3,1,SF-1206F400-2,,FUSC3116X70N,Bourns,SF-1206F400-2,,,Surface Mount Fuses 4A Fast Acting 1206 SinglFuse
+F4,1,SF-1206F400-2,,FUSC3116X70N,Bourns,SF-1206F400-2,,,Surface Mount Fuses 4A Fast Acting 1206 SinglFuse
+F5,1,SF-1206F400-2,,FUSC3116X70N,Bourns,SF-1206F400-2,,,Surface Mount Fuses 4A Fast Acting 1206 SinglFuse
+F6,1,SF-1206F400-2,,FUSC3116X70N,Bourns,SF-1206F400-2,,,Surface Mount Fuses 4A Fast Acting 1206 SinglFuse
+F7,1,SF-1206F400-2,,FUSC3116X70N,Bourns,SF-1206F400-2,,,Surface Mount Fuses 4A Fast Acting 1206 SinglFuse
+F8,1,SF-1206F400-2,,FUSC3116X70N,Bourns,SF-1206F400-2,,,Surface Mount Fuses 4A Fast Acting 1206 SinglFuse
+F9,1,SF-1206F400-2,,FUSC3116X70N,Bourns,SF-1206F400-2,,,Surface Mount Fuses 4A Fast Acting 1206 SinglFuse
+SW1,1,Slide_switch,,SW_1825159-1,,1825159-1,,,
+D6,1,SM712,,SOT95P237X120-3N,SEMTECH,SM712,,,12 V TVS Diode Array For ESD and Latch-Up Protection
+D10,1,SM712,,SOT95P237X120-3N,SEMTECH,SM712,,,12 V TVS Diode Array For ESD and Latch-Up Protection
+D14,1,SM712,,SOT95P237X120-3N,SEMTECH,SM712,,,12 V TVS Diode Array For ESD and Latch-Up Protection
+D18,1,SM712,,SOT95P237X120-3N,SEMTECH,SM712,,,12 V TVS Diode Array For ESD and Latch-Up Protection
+L1,1,SRP1038A-470M,,INDPM110100X400N,Bourns,SRP1038A-470M,,,"Inductor SMD shielded AEC-Q200 47uH Bourns SRP1038A Series Shielded Wire-wound SMD Inductor with a Carbonyl Powder Core, 47 uH 20% 3A Idc"
+IC1,1,STM32F446RET6,,QFP50P1200X1200X160-64N,STMicroelectronics,STM32F446RET6,,,"Arm Cortex-M4 32-bit MCU+FPU, 225 DMIPS, up to 512 KB Flash/128+4 KB RAM, USB OTG HS/FS, seventeen TIMs, three ADCs and twenty communication interfaces"
+TB1,1,TB3,,DSC,,,,,
+TB2,1,TB3,,DSC,,,,,
+TB3,1,TB3,,DSC,,,,,
+TB4,1,TB3,,DSC,,,,,
+TB7,1,TB3,,DSC,,,,,
+TB9,1,TB3,,DSC,,,,,
+TB8,1,TB3,,DSC,,,,,
+TB10,1,TB3,,DSC,,,,,
+VR1,1,TSR-3386W-103R,,TSR3386W103R,Suntan Technology,TSR-3386W-103R,,,Suntan TSR-3386W-103R 10k Wr3386W 3/8 1-turn Trimmer Pot
+XTAL2,1,Watch Crystal,,DIL,,,,,
+U6,1,XL4015,,CONV_XL4015,,,,,
+XTAL1,1,XTAL,12Mhz,DSC,,,,,
