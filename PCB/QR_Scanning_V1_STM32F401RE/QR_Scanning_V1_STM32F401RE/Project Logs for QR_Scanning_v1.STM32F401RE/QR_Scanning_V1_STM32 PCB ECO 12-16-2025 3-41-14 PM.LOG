@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=SCL Pin=R57-1
+Added Component: Designator=J4(3_pin brg)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "68001-403HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(3_pin brg)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "68001-403HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J10(10 Pin 5X2Pos THT)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTSW-105-X-X-D-X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=ERTH Pin=J4-3
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=ERTH Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=SWO/sck1 Pin=J10-2
+Added Pin To Net: NetName=INT Pin=J10-3
+Added Pin To Net: NetName=SCS Pin=J10-4
+Added Pin To Net: NetName=RST Pin=J10-5
+Added Pin To Net: NetName=MOSI Pin=J10-6
+Added Pin To Net: NetName=GND Pin=J10-7
+Added Pin To Net: NetName=MISO Pin=J10-8
+Added Pin To Net: NetName=+5 Pin=J10-9
+Added Pin To Net: NetName=3V3 Pin=J10-10
+Added Pin To Net: NetName=SDA Pin=R57-1
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=R18-1
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=R22-1
+Added Net: Name=NetJ7_1
+Added Member To Class: ClassName=QR_Scanning_V1_STM32 Member=Component J4 3_pin brg
+Added Member To Class: ClassName=QR_Scanning_V1_STM32 Member=Component J7 3_pin brg
+Added Member To Class: ClassName=QR_Scanning1_V1_STM32 Member=Component J10 10 Pin 5X2Pos THT
+Added Member To Class: ClassName=QR_Scanning_V1_STM32 Member=Component R68 RES 0E 0.25W 5% 0805

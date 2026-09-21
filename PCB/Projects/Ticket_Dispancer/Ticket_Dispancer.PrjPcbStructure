@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=commucation.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=commucation.SchDoc|FileName=DI_DO.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=commucation.SchDoc|FileName=LAN.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=commucation.SchDoc|FileName=main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=commucation.SchDoc|FileName=memory.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=commucation.SchDoc|FileName=Power.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=commucation.SchDoc|FileName=Relay.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=commucation.SchDoc|FileName=Usb.SchDoc|SheetNumber=8

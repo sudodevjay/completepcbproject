@@ -1,0 +1,32 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: QR_Scanning_V1_STM32.PcbDoc   12/19/2025  11:21:53 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : QR_Scanning_V1_STM32.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.24mm (9mil)                                             Round             23        PTH        153.81mm (6.06inch)
+T2      0.254mm (10mil)                                           Round             7         PTH        47.91mm (1.89inch)
+T3      0.311mm (12mil)                                           Round             8         PTH        70.62mm (2.78inch)
+T4      0.411mm (16mil)                                           Round             100       PTH        453.33mm (17.85inch)
+T5      0.45mm (18mil)                                            Round             8         PTH        14.32mm (0.56inch)
+T6      0.511mm (20mil)                                           Round             73        PTH        546.01mm (21.50inch)
+T7      0.75mm (30mil)                                            Round             4         PTH        22.61mm (0.89inch)
+T8      0.85mm (33mil)                                            Round             2         PTH        7.50mm (0.30inch)
+T9      0.9mm (35mil)                                             Round             8         PTH        18.08mm (0.71inch)
+T10     1mm (39mil)                                               Round             8         PTH        130.40mm (5.13inch)
+T11     1.02mm (40mil)                                            Round             12        PTH        53.21mm (2.10inch)
+T12     1.1mm (43mil)                                             Round             12        PTH        115.19mm (4.54inch)
+T13     1.17mm (46mil)                                            Round             1         PTH        0.00mm (0.00inch)
+T14     1.3mm (51mil)                                             Round             10        PTH        114.42mm (4.50inch)
+T15     1.5mm (59mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T16     1.6mm (63mil)                                             Round             13        PTH        276.72mm (10.89inch)
+T17     3.65mm (144mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T18     3.25mm (128mil)                                           Round             2         NPTH       11.43mm (0.45inch)
+T19     3.75mm (148mil)                                           Round             4         NPTH       267.98mm (10.55inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              297
+
+Total Processing Time (hh:mm:ss) : 00:00:00

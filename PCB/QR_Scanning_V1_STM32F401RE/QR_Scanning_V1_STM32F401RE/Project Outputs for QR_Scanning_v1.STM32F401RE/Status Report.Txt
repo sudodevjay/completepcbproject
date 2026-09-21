@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [QR_Scanning_v1.STM32F401RE.PrjPcb]
+   Generated File[QR_Scanning_V1_STM32.TXT]
+   Generated File[QR_Scanning_V1_STM32.LDP]
+   Generated File[QR_Scanning_V1_STM32.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:21:53 AM On 12/19/2025
