@@ -1,0 +1,41 @@
+../Core/Inc/HWprofile.h:74:13:const char* mode_to_str(uint8_t)	5
+../Core/Inc/HWprofile.h:85:6:char color_to_char(uint8_t)	5
+../Core/Inc/Read_key.h:14:15:unsigned char ReadKeyStt()	5
+../Core/Inc/Read_key.h:25:15:unsigned char ReadKey(unsigned char)	2
+../Core/Inc/Read_key.h:41:6:void keyprocess()	9
+../Core/Inc/AT24C512.h:13:9:uint8_t AT24C512_ReadByte(uint16_t)	1
+../Core/Inc/AT24C512.h:20:6:void AT24C512_WriteByte(uint16_t, uint8_t)	1
+../Core/Inc/Settings.h:31:6:void LCD_ShowInitScreen()	1
+../Core/Inc/Settings.h:46:6:void LCD_InitDots(uint8_t)	2
+../Core/Inc/Settings.h:52:13:void ValueToDigits(uint32_t, uint8_t*)	1
+../Core/Inc/Settings.h:63:17:uint32_t DigitsToValue(uint8_t*)	1
+../Core/Inc/Settings.h:72:6:void LCD_ShowDigits(LiquidCrystal_I2C&, uint8_t*, uint8_t, uint8_t)	5
+../Core/Inc/Settings.h:103:10:uint32_t SetV(uint32_t, uint8_t, uint8_t, LiquidCrystal_I2C&)	10
+../Core/Inc/Settings.h:152:5:int LCD_MenuSelect(LiquidCrystal_I2C&, const char**, uint8_t)	16
+../Core/Inc/Settings.h:239:6:void SetPSW()	2
+../Core/Inc/Settings.h:255:6:void setFloorID()	3
+../Core/Inc/Settings.h:272:6:void set_no_Display()	3
+../Core/Inc/Settings.h:290:6:void SetTotal_Zone()	3
+../Core/Inc/Settings.h:348:6:void SetDisplay_Config()	7
+../Core/Inc/Settings.h:414:6:void Read_data()	11
+../Core/Src/main.cc:109:6:void DWT_Init()	1
+../Core/Src/main.cc:119:6:void LCD_Show(uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t)	3
+../Core/Src/main.cc:151:6:void Update_All_Displays()	9
+../Core/Src/main.cc:208:6:void Zone_Request_Task()	2
+../Core/Src/main.cc:237:6:void Flush_All_Data()	1
+../Core/Src/main.cc:249:6:void Build_Master_Response()	1
+../Core/Src/main.cc:285:5:int main()	9
+../Core/Src/main.cc:428:6:void SystemClock_Config()	3
+../Core/Src/main.cc:476:13:void MX_I2C1_Init()	2
+../Core/Src/main.cc:510:13:void MX_I2C3_Init()	2
+../Core/Src/main.cc:544:13:void MX_TIM3_Init()	4
+../Core/Src/main.cc:589:13:void MX_UART4_Init()	2
+../Core/Src/main.cc:622:13:void MX_USART1_UART_Init()	2
+../Core/Src/main.cc:655:13:void MX_USART2_UART_Init()	2
+../Core/Src/main.cc:686:13:void MX_DMA_Init()	1
+../Core/Src/main.cc:704:13:void MX_GPIO_Init()	1
+../Core/Src/main.cc:736:6:void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef*, uint16_t)	15
+../Core/Src/main.cc:786:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	4
+../Core/Src/main.cc:807:6:void Error_Handler()	1
+../Core/Src/main.cc:816:1:void __static_initialization_and_destruction_0()	1
+../Core/Src/main.cc:816:1:cc)	1
