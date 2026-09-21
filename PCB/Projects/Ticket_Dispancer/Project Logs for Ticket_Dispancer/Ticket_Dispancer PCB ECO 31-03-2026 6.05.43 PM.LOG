@@ -1,0 +1,168 @@
+Removed Member From Class: ClassName=Power Member=C5
+Removed Member From Class: ClassName=main Member=C20
+Removed Member From Class: ClassName=main Member=C23
+Removed Member From Class: ClassName=commucation Member=C50
+Removed Member From Class: ClassName=memory Member=C50
+Removed Member From Class: ClassName=commucation Member=C51
+Removed Member From Class: ClassName=memory Member=C51
+Removed Member From Class: ClassName=DI_DO Member=C67
+Removed Member From Class: ClassName=LAN Member=C67
+Removed Member From Class: ClassName=DI_DO Member=C72
+Removed Member From Class: ClassName=LAN Member=C72
+Removed Member From Class: ClassName=LAN Member=J10
+Removed Member From Class: ClassName=main Member=J18
+Removed Member From Class: ClassName=Usb Member=J18
+Removed Member From Class: ClassName=DI_DO Member=R19
+Removed Member From Class: ClassName=Power Member=R19
+Removed Member From Class: ClassName=Relay Member=R19
+Removed Member From Class: ClassName=commucation Member=R26
+Removed Member From Class: ClassName=commucation Member=R29
+Removed Member From Class: ClassName=LAN Member=R37
+Removed Member From Class: ClassName=LAN Member=R40
+Removed Member From Class: ClassName=DI_DO Member=R97
+Removed Member From Class: ClassName=Relay Member=R97
+Removed Member From Class: ClassName=LAN Member=U2
+Removed Member From Class: ClassName=Power Member=U2
+Change Component Description : Designator=J19 Old Description=Conn Data USB TypeAB Socket 5Cnts RightAngle Micro SMT New Description=Conn Data USB TypeAB Socket 5Cnts RightAngle Micro SMT | Amphenol FCI (Amphenol CS) 10104111-0001LF
+Change Component Description : Designator=U11 Old Description=Microchip 24AA02E48-I/SN Serial EEPROM Memory,2kb,3500ns,1.7 to 5.5V 8-Pin SOIC New Description=Microchip 24AA02E48-I/SN Serial EEPROM Memory,2kb,3500ns,1.7 to 5.5V 8-Pin SOIC | Microchip Technology Inc. 24AA02E48-I/SN
+Added Member To Class: ClassName=main Member=Component C5 10 µF
+Added Member To Class: ClassName=main Member=Component C6 1µF
+Added Member To Class: ClassName=main Member=Component C7 1µF
+Added Member To Class: ClassName=main Member=Component C8 1µF
+Added Member To Class: ClassName=main Member=Component C9 1µF
+Added Member To Class: ClassName=main Member=Component C10 1µF
+Added Member To Class: ClassName=main Member=Component C11 1µF
+Added Member To Class: ClassName=main Member=Component C12 1µF
+Added Member To Class: ClassName=main Member=Component C13 4.7 µF
+Added Member To Class: ClassName=main Member=Component C14 4.7 µF
+Added Member To Class: ClassName=commucation Member=Component C17 1µF
+Added Member To Class: ClassName=commucation Member=Component C18 1µF
+Added Member To Class: ClassName=commucation Member=Component C19 1µF
+Added Member To Class: ClassName=commucation Member=Component C21 1µF
+Added Member To Class: ClassName=commucation Member=Component C22 1µF
+Added Member To Class: ClassName=commucation Member=Component C24 1000 pF
+Added Member To Class: ClassName=commucation Member=Component C25 1µF
+Added Member To Class: ClassName=commucation Member=Component C27 1µF
+Added Member To Class: ClassName=commucation Member=Component C28 1µF
+Added Member To Class: ClassName=commucation Member=Component C29 1µF
+Added Member To Class: ClassName=commucation Member=Component C30 1µF
+Added Member To Class: ClassName=commucation Member=Component C31 1µF
+Added Member To Class: ClassName=commucation Member=Component C33 1µF
+Added Member To Class: ClassName=commucation Member=Component C34 1µF
+Added Member To Class: ClassName=commucation Member=Component C35 1µF
+Added Member To Class: ClassName=commucation Member=Component C36 1µF
+Added Member To Class: ClassName=memory Member=Component C37 1µF
+Added Member To Class: ClassName=memory Member=Component C38 1µF
+Added Member To Class: ClassName=LAN Member=Component C39 10 µF
+Added Member To Class: ClassName=LAN Member=Component C40 1µF
+Added Member To Class: ClassName=LAN Member=Component C41 1µF
+Added Member To Class: ClassName=LAN Member=Component C42 1µF
+Added Member To Class: ClassName=LAN Member=Component C43 1µF
+Added Member To Class: ClassName=LAN Member=Component C44 1µF
+Added Member To Class: ClassName=LAN Member=Component C45 1µF
+Added Member To Class: ClassName=LAN Member=Component C46 1µF
+Added Member To Class: ClassName=LAN Member=Component C47 10 µF
+Added Member To Class: ClassName=LAN Member=Component C48 15pF
+Added Member To Class: ClassName=LAN Member=Component C49 15pF
+Added Member To Class: ClassName=LAN Member=Component C52 6800 pF
+Added Member To Class: ClassName=LAN Member=Component C53 10000 pF
+Added Member To Class: ClassName=LAN Member=Component C54 4.7 µF
+Added Member To Class: ClassName=LAN Member=Component C55 10000 pF
+Added Member To Class: ClassName=LAN Member=Component C56 1206Y2K00102KXT
+Added Member To Class: ClassName=DI_DO Member=Component C57 1µF
+Added Member To Class: ClassName=DI_DO Member=Component C58 10 µF
+Added Member To Class: ClassName=DI_DO Member=Component C59 10 µF
+Added Member To Class: ClassName=DI_DO Member=Component C60 1µF
+Added Member To Class: ClassName=Power Member=Component C61 1µF
+Added Member To Class: ClassName=Power Member=Component C62 220 µF
+Added Member To Class: ClassName=Power Member=Component C63 470 µF
+Added Member To Class: ClassName=Power Member=Component C64 1µF
+Added Member To Class: ClassName=Power Member=Component C65 ECWFE2W105JA
+Added Member To Class: ClassName=Power Member=Component C66 1µF
+Added Member To Class: ClassName=Power Member=Component C68 470 µF
+Added Member To Class: ClassName=Power Member=Component C69 1µF
+Added Member To Class: ClassName=Power Member=Component C70 10 µF
+Added Member To Class: ClassName=Power Member=Component C71 10 µF
+Added Member To Class: ClassName=main Member=Component J4 NPPN061BFCN-RC
+Added Member To Class: ClassName=LAN Member=Component J11 HR911105A
+Added Member To Class: ClassName=DI_DO Member=Component J14 OQ0632510000G
+Added Member To Class: ClassName=Relay Member=Component J17 OQ0632510000G
+Added Member To Class: ClassName=Usb Member=Component J19 10104111-0001LF
+Added Member To Class: ClassName=commucation Member=Component R14 10 Ohms
+Added Member To Class: ClassName=commucation Member=Component R16 1 kOhms
+Added Member To Class: ClassName=commucation Member=Component R17 10 Ohms
+Added Member To Class: ClassName=commucation Member=Component R18 120 Ohms
+Added Member To Class: ClassName=commucation Member=Component R19 10 Ohms
+Added Member To Class: ClassName=commucation Member=Component R20 10 Ohms
+Added Member To Class: ClassName=commucation Member=Component R21 10 Ohms
+Added Member To Class: ClassName=commucation Member=Component R23 10 Ohms
+Added Member To Class: ClassName=LAN Member=Component R24 49.9 Ohms
+Added Member To Class: ClassName=LAN Member=Component R25 49.9 Ohms
+Added Member To Class: ClassName=LAN Member=Component R27 10 kOhms
+Added Member To Class: ClassName=LAN Member=Component R28 10 kOhms
+Added Member To Class: ClassName=LAN Member=Component R30 12.4 kOhms
+Added Member To Class: ClassName=LAN Member=Component R31 49.9 Ohms
+Added Member To Class: ClassName=LAN Member=Component R33 330 Ohms
+Added Member To Class: ClassName=LAN Member=Component R34 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R35 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R36 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R38 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R39 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R41 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R42 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R43 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R44 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R46 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R47 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R49 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R50 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R51 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R52 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R55 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R56 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R57 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R58 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R59 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R60 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R63 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R64 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R67 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R68 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R69 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R70 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R71 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R72 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R73 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R74 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R75 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R76 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R77 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R78 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R79 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R80 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R81 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R82 330 Ohms
+Added Member To Class: ClassName=Relay Member=Component R83 330 Ohms
+Added Member To Class: ClassName=Relay Member=Component R84 330 Ohms
+Added Member To Class: ClassName=Relay Member=Component R85 1 kOhms
+Added Member To Class: ClassName=Relay Member=Component R86 330 Ohms
+Added Member To Class: ClassName=Relay Member=Component R87 1 kOhms
+Added Member To Class: ClassName=Relay Member=Component R88 330 Ohms
+Added Member To Class: ClassName=Relay Member=Component R89 1 kOhms
+Added Member To Class: ClassName=Relay Member=Component R90 330 Ohms
+Added Member To Class: ClassName=Relay Member=Component R91 1 kOhms
+Added Member To Class: ClassName=Relay Member=Component R92 1 kOhms
+Added Member To Class: ClassName=Power Member=Component R93 330 Ohms
+Added Member To Class: ClassName=Power Member=Component R94 1.65 kOhms
+Added Member To Class: ClassName=Power Member=Component R95 1 kOhms
+Added Member To Class: ClassName=Power Member=Component R96 330 Ohms
+Added Member To Class: ClassName=Power Member=Component R98 1 kOhms
+Added Member To Class: ClassName=commucation Member=Component U3 MAX3232ESE
+Added Member To Class: ClassName=commucation Member=Component U4 74HC14D
+Added Member To Class: ClassName=commucation Member=Component U6 MAX3232ESE
+Added Member To Class: ClassName=commucation Member=Component U7 MAX3232ESE
+Added Member To Class: ClassName=memory Member=Component U9 W25Q128JVSIQ
+Added Member To Class: ClassName=memory Member=Component U10 AT24C512C-SSHM-T
+Added Member To Class: ClassName=LAN Member=Component U12 W5500
+Added Member To Class: ClassName=Power Member=Component U13 LM2576HVSX-5.0/NOPB
+Added Member To Class: ClassName=Power Member=Component U14 LM2576HVSX-5.0/NOPB

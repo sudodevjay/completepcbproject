@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=Y1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=Y1-2
+Removed Pin From Net: NetName=GND Pin=Y1-3
+Change Component Footprint: Designator=Y2 Old Footprint=ABRACON ABLS New Footprint=XTAL_ECS-160-20-4X
+Change Component Footprint: Designator=Y1 Old Footprint=XTAL_ECS-.327-12.5-13FLX-C New Footprint=CFS20632768EZBB
+Change Component Comment : Designator=Y2 Old Comment=8 MHz New Comment=ECS-17.1776-20-4
+Change Component Comment : Designator=Y1 Old Comment=ECS-.327-12.5-13FLX-C New Comment=CFS-20632768EZBB
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "XTAL_ECS-.327-12.5-13FLX-C"; UniqueID = "\GEEPAKYA" ("\GEEPAKYA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CFS-20632768EZBB/Citizen%20Finedevice%20Co%20Ltd/view-part/2815870/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Citizen Finedevice"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CFS-20632768EZBB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Cylindrical Can Radial  Citizen Finetech Miyota"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CFS-20632768EZBB/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CFS-20632768EZBB/Citizen%20Finedevice%20Co%20Ltd/view-part/2815870/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y2" ("Y2"); Footprint = "ABRACON ABLS"; UniqueID = "\KUQSZXFY" ("\KUQSZXFY")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ECS-17.1776-20-4/ECS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ECS International"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ECS-17.1776-20-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "HC-49US ECS Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ECS-17.1776-20-4/ECS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC2_1 Pin=Y1-2

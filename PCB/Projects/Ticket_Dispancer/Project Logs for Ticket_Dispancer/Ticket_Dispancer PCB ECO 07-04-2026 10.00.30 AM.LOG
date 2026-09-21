@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5v Pin=J1-10
+Removed Pin From Net: NetName=3v3 Pin=J3-1
+Added Pin To Net: NetName=3v3 Pin=J1-9
+Added Pin To Net: NetName=MVCC Pin=J3-1
+Added Member To Class: ClassName=LAN Member=Component Y3 ECS-17.1776-20-4

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=DI_GND Pin=J16-2
+Added Pin To Net: NetName=DI_GND Pin=J16-4
+Added Pin To Net: NetName=DI_GND Pin=J16-6
+Added Member To Class: ClassName=main Member=Component R? 1 kOhms

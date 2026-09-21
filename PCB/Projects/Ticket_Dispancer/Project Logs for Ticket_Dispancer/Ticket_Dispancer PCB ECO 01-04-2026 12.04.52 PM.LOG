@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=power Member=NetC68_1
+Removed Member From Class: ClassName=power Member=NetD61_C
+Added Member To Class: ClassName=power Member=Wire 3v3
+Added Member To Class: ClassName=power Member=Wire 5v
+Added Member To Class: ClassName=power Member=Wire GND
+Added Member To Class: ClassName=power Member=Wire MVCC
+Added Member To Class: ClassName=High_current Member=Wire NetC68_1
+Added Member To Class: ClassName=High_current Member=Wire NetD61_C

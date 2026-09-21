@@ -1,0 +1,233 @@
+Removed Member From Class: ClassName=main Member=R4
+Removed Member From Class: ClassName=main Member=R5
+Removed Member From Class: ClassName=commucation Member=R22
+Removed Member From Class: ClassName=LAN Member=R34
+Removed Member From Class: ClassName=LAN Member=R37
+Removed Member From Class: ClassName=DI_DO Member=R95
+Removed Member From Class: ClassName=Relay Member=R95
+Removed Member From Class: ClassName=DI_DO Member=R96
+Removed Member From Class: ClassName=Relay Member=R96
+Change Component Footprint: Designator=Q4 Old Footprint=ON SEMI SOT-723 New Footprint=ON SEMI SOT-23-3
+Change Component Footprint: Designator=Q5 Old Footprint=ON SEMI SOT-723 New Footprint=ON SEMI SOT-23-3
+Change Component Footprint: Designator=Q6 Old Footprint=ON SEMI SOT-723 New Footprint=ON SEMI SOT-23-3
+Change Component Footprint: Designator=Q7 Old Footprint=ON SEMI SOT-723 New Footprint=ON SEMI SOT-23-3
+Change Component Footprint: Designator=Q8 Old Footprint=ON SEMI SOT-723 New Footprint=ON SEMI SOT-23-3
+Change Component Comment : Designator=Q4 Old Comment=BC847BM3T5G New Comment=BC847BLT1G
+Change Component Comment : Designator=Q5 Old Comment=BC847BM3T5G New Comment=BC847BLT1G
+Change Component Comment : Designator=Q6 Old Comment=BC847BM3T5G New Comment=BC847BLT1G
+Change Component Comment : Designator=Q7 Old Comment=BC847BM3T5G New Comment=BC847BLT1G
+Change Component Comment : Designator=Q8 Old Comment=BC847BM3T5G New Comment=BC847BLT1G
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "ON SEMI SOT-723"; UniqueID = "\NFLXFPGU" ("\NFLXFPGU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/pub/Collateral/BC846ALT1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/on-semiconductor/BC847BLT1G/BC847BLT1GOSCT-ND/917834"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Collector (Ic) (Max)"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Collector Cutoff (Max)"; Value = "15nA (ICBO)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Current Gain (hFE) (Min) @ Ic, Vce"; Value = "200 @ 2mA, 5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency - Transition"; Value = "100MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "29-03-2026 8.43.49 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "TO-236-3, SC-59, SOT-23-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BC847BLT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "246"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power - Max"; Value = "300mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.02"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "SOT-23-3 (TO-236)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "BC847BLT1GOSCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Type"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vce Saturation (Max) @ Ib, Ic"; Value = "600mV @ 5mA, 100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Collector Emitter Breakdown (Max)"; Value = "45V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5" ("Q5"); Footprint = "ON SEMI SOT-723"; UniqueID = "\NUAFYSFG" ("\NUAFYSFG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/pub/Collateral/BC846ALT1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/on-semiconductor/BC847BLT1G/BC847BLT1GOSCT-ND/917834"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Collector (Ic) (Max)"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Collector Cutoff (Max)"; Value = "15nA (ICBO)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Current Gain (hFE) (Min) @ Ic, Vce"; Value = "200 @ 2mA, 5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency - Transition"; Value = "100MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "29-03-2026 8.43.49 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "TO-236-3, SC-59, SOT-23-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BC847BLT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "246"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power - Max"; Value = "300mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.02"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "SOT-23-3 (TO-236)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "BC847BLT1GOSCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Type"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vce Saturation (Max) @ Ib, Ic"; Value = "600mV @ 5mA, 100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Collector Emitter Breakdown (Max)"; Value = "45V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6" ("Q6"); Footprint = "ON SEMI SOT-723"; UniqueID = "\QVIBSKKW" ("\QVIBSKKW")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/pub/Collateral/BC846ALT1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/on-semiconductor/BC847BLT1G/BC847BLT1GOSCT-ND/917834"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Collector (Ic) (Max)"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Collector Cutoff (Max)"; Value = "15nA (ICBO)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Current Gain (hFE) (Min) @ Ic, Vce"; Value = "200 @ 2mA, 5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency - Transition"; Value = "100MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "29-03-2026 8.43.49 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "TO-236-3, SC-59, SOT-23-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BC847BLT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "246"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power - Max"; Value = "300mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.02"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "SOT-23-3 (TO-236)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "BC847BLT1GOSCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Type"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vce Saturation (Max) @ Ib, Ic"; Value = "600mV @ 5mA, 100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Collector Emitter Breakdown (Max)"; Value = "45V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q7" ("Q7"); Footprint = "ON SEMI SOT-723"; UniqueID = "\HRXBKTPI" ("\HRXBKTPI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/pub/Collateral/BC846ALT1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/on-semiconductor/BC847BLT1G/BC847BLT1GOSCT-ND/917834"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Collector (Ic) (Max)"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Collector Cutoff (Max)"; Value = "15nA (ICBO)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Current Gain (hFE) (Min) @ Ic, Vce"; Value = "200 @ 2mA, 5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency - Transition"; Value = "100MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "29-03-2026 8.43.49 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "TO-236-3, SC-59, SOT-23-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BC847BLT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "246"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power - Max"; Value = "300mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.02"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "SOT-23-3 (TO-236)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "BC847BLT1GOSCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Type"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vce Saturation (Max) @ Ib, Ic"; Value = "600mV @ 5mA, 100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Collector Emitter Breakdown (Max)"; Value = "45V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q8" ("Q8"); Footprint = "ON SEMI SOT-723"; UniqueID = "\WJCVSEEH" ("\WJCVSEEH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/pub/Collateral/BC846ALT1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/on-semiconductor/BC847BLT1G/BC847BLT1GOSCT-ND/917834"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Collector (Ic) (Max)"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Collector Cutoff (Max)"; Value = "15nA (ICBO)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Current Gain (hFE) (Min) @ Ic, Vce"; Value = "200 @ 2mA, 5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency - Transition"; Value = "100MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "29-03-2026 8.43.49 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "TO-236-3, SC-59, SOT-23-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "BC847BLT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "246"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power - Max"; Value = "300mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.02"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "SOT-23-3 (TO-236)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "BC847BLT1GOSCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Type"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vce Saturation (Max) @ Ib, Ic"; Value = "600mV @ 5mA, 100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Collector Emitter Breakdown (Max)"; Value = "45V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=DI_DO Member=Component D41 597-3305-607F
+Added Member To Class: ClassName=main Member=Component R1 1 kOhms
+Added Member To Class: ClassName=main Member=Component R2 1 kOhms
+Added Member To Class: ClassName=commucation Member=Component R3 10 Ohms
+Added Member To Class: ClassName=commucation Member=Component R6 330 Ohms
+Added Member To Class: ClassName=commucation Member=Component R7 10 Ohms
+Added Member To Class: ClassName=commucation Member=Component R10 1 kOhms
+Added Member To Class: ClassName=commucation Member=Component R11 10 Ohms
+Added Member To Class: ClassName=commucation Member=Component R14 10 Ohms
+Added Member To Class: ClassName=commucation Member=Component R15 1 kOhms
+Added Member To Class: ClassName=commucation Member=Component R17 120 Ohms
+Added Member To Class: ClassName=commucation Member=Component R18 10 Ohms
+Added Member To Class: ClassName=commucation Member=Component R19 10 Ohms
+Added Member To Class: ClassName=commucation Member=Component R20 10 Ohms
+Added Member To Class: ClassName=LAN Member=Component R23 49.9 Ohms
+Added Member To Class: ClassName=LAN Member=Component R24 11 Ohms
+Added Member To Class: ClassName=LAN Member=Component R25 10 kOhms
+Added Member To Class: ClassName=LAN Member=Component R26 10 kOhms
+Added Member To Class: ClassName=LAN Member=Component R27 10 kOhms
+Added Member To Class: ClassName=LAN Member=Component R30 49.9 Ohms
+Added Member To Class: ClassName=LAN Member=Component R31 330 Ohms
+Added Member To Class: ClassName=LAN Member=Component R32 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R33 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R35 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R36 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R38 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R39 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R41 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R42 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R43 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R46 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R47 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R49 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R50 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R51 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R54 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R55 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R56 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R60 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R61 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R63 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R66 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R67 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R69 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R70 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R71 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R72 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R73 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R74 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R75 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R76 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R77 10 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R78 1 kOhms
+Added Member To Class: ClassName=DI_DO Member=Component R79 330 Ohms
+Added Member To Class: ClassName=DI_DO Member=Component R80 330 Ohms
+Added Member To Class: ClassName=Relay Member=Component R81 330 Ohms
+Added Member To Class: ClassName=Relay Member=Component R82 330 Ohms
+Added Member To Class: ClassName=Relay Member=Component R83 1 kOhms
+Added Member To Class: ClassName=Relay Member=Component R84 330 Ohms
+Added Member To Class: ClassName=Relay Member=Component R85 1 kOhms
+Added Member To Class: ClassName=Relay Member=Component R86 330 Ohms
+Added Member To Class: ClassName=Relay Member=Component R87 1 kOhms
+Added Member To Class: ClassName=Relay Member=Component R88 330 Ohms
+Added Member To Class: ClassName=Relay Member=Component R89 1 kOhms
+Added Member To Class: ClassName=Relay Member=Component R90 1 kOhms
+Added Member To Class: ClassName=Power Member=Component R91 330 Ohms
+Added Member To Class: ClassName=Power Member=Component R92 1.65 kOhms
+Added Member To Class: ClassName=Power Member=Component R93 1 kOhms
+Added Member To Class: ClassName=Power Member=Component R94 330 Ohms

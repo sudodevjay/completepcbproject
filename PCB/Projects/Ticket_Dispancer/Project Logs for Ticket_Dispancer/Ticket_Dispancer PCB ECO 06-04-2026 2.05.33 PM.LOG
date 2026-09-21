@@ -1,0 +1,9 @@
+Change Footprint: Footprint Not Found XTAL_ECS-160-20-4X
+Change Component Comment : Designator=Y3 Old Comment=25 MHz New Comment=ECS-17.1776-20-4
+Change component parameters: Designator = "Y3" ("Y3"); Footprint = "ABRACON ABLS"; UniqueID = "\PNDGEDIY" ("\PNDGEDIY")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ECS-17.1776-20-4/ECS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ECS International"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ECS-17.1776-20-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "HC-49US ECS Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ECS-17.1776-20-4/ECS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

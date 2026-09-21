@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=SPI1_MOSI Pin=U1-31
+Removed Pin From Net: NetName=SPI1_MISO Pin=U1-32
+Removed Pin From Net: NetName=GND Pin=U10-1
+Removed Pin From Net: NetName=NetC1_1 Pin=Y1-1
+Removed Pin From Net: NetName=NetC2_1 Pin=Y1-2
+Removed Pin From Net: NetName=NetC4_1 Pin=Y2-1
+Removed Pin From Net: NetName=NetC3_1 Pin=Y2-2
+Change Component Footprint: Designator=Y1 Old Footprint=CFS20632768EZBB New Footprint=XTAL_ECS-160-20-4X
+Change Footprint: Footprint Not Found CFS20632768EZBB
+Change Component Comment : Designator=Y1 Old Comment=CFS-20632768EZBB New Comment=ECS-17.1776-20-4
+Change Component Comment : Designator=Y2 Old Comment=ECS-17.1776-20-4 New Comment=CFS-20632768EZBB
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "CFS20632768EZBB"; UniqueID = "\YPAQMRMB" ("\YPAQMRMB")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ECS-17.1776-20-4/ECS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ECS International"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ECS-17.1776-20-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "HC-49US ECS Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ECS-17.1776-20-4/ECS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y2" ("Y2"); Footprint = "XTAL_ECS-160-20-4X"; UniqueID = "\UIJPCTGA" ("\UIJPCTGA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CFS-20632768EZBB/Citizen%20Finedevice%20Co%20Ltd/view-part/2815870/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Citizen Finedevice"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CFS-20632768EZBB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Cylindrical Can Radial  Citizen Finetech Miyota"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CFS-20632768EZBB/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CFS-20632768EZBB/Citizen%20Finedevice%20Co%20Ltd/view-part/2815870/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R35(RES 0805_2012)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.rohm.com/datasheet/ESR01MZPF/esr-e"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/rohm-semiconductor/ESR10EZPF1001/1983480"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200, Pulse Withstanding"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.026" (0.65mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "08-02-2024 9.02.37 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ESR10EZPF1001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "28032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.4W, 2/5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1 kOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ESR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RHM1.00KAECT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOhms"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3v3 Pin=R35-1
+Added Pin To Net: NetName=SPI1_MISO Pin=U1-31
+Added Pin To Net: NetName=SPI1_MOSI Pin=U1-32
+Added Pin To Net: NetName=NetC2_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC1_1 Pin=Y1-2
+Added Pin To Net: NetName=NetC3_1 Pin=Y2-1
+Added Pin To Net: NetName=NetC4_1 Pin=Y2-2
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR35_2 Pin=U10-1
+Added Net: Name=NetR35_2
+Added Member To Class: ClassName=memory Member=Component R35 1 kOhms

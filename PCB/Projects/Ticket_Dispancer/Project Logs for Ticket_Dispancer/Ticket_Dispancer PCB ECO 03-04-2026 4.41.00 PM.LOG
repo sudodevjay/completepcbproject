@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=D_SDA Pin=U11-5
+Removed Pin From Net: NetName=D_SCL Pin=U11-6
+Added Pin To Net: NetName=M_SDA Pin=U11-5
+Added Pin To Net: NetName=M_SCL Pin=U11-6

@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=TX4 Pin=D3-1
+Added Pin To Net: NetName=RX4 Pin=D3-2
+Added Pin To Net: NetName=RX2 Pin=D4-1
+Added Pin To Net: NetName=TX2 Pin=D4-2
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=R5-1
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=R7-1
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetJ6_4 Pin=J6-4
+Added Pin To Net: NetName=NetJ6_4 Pin=R3-1
+Added Net: Name=NetJ6_4
+Added Pin To Net: NetName=NetJ6_5 Pin=J6-5
+Added Pin To Net: NetName=NetJ6_5 Pin=R4-1
+Added Net: Name=NetJ6_5

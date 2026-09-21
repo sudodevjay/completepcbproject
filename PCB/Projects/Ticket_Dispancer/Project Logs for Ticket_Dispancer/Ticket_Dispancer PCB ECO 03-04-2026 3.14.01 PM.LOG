@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DI4 Pin=U1-2
+Removed Pin From Net: NetName=DI3 Pin=U1-3
+Removed Pin From Net: NetName=DI2 Pin=U1-4
+Removed Pin From Net: NetName=DI1 Pin=U1-5
+Removed Pin From Net: NetName=DI5 Pin=U1-98
+Added Pin To Net: NetName=DI5 Pin=U1-2
+Added Pin To Net: NetName=DI6 Pin=U1-3
+Added Pin To Net: NetName=DI1 Pin=U1-4
+Added Pin To Net: NetName=DI2 Pin=U1-5
+Added Pin To Net: NetName=DI3 Pin=U1-7
+Added Pin To Net: NetName=DI4 Pin=U1-98
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default

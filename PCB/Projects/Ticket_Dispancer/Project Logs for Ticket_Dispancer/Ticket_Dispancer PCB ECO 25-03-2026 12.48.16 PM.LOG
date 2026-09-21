@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=3v3 Pin=C10-2
+Removed Pin From Net: NetName=NetC8_2 Pin=U2-2
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAP 0805_2012"; UniqueID = "\YFODJAUY" ("\YFODJAUY")
+Change component parameters (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1url"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2url"; Value = "http://digikey.com/product-detail/en/avx-corporation/0805ZC105KAT4A/478-7604-1-ND/7536237"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "lastupdated"; Value = "02-09-2020 1.04.40 AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "manufacturer"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "0805ZC105KAT4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partid"; Value = "3500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "price"; Value = "0.17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "478-7604-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness (Max)"; Value = "0.037" (0.94mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP 0805_2012)
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "http://datasheets.avx.com/X7RDielectric.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "http://digikey.com/product-detail/en/avx-corporation/0805ZC105KAT4A/478-7604-1-ND/7536237"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "02-09-2020 1.04.40 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "AVX Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0805ZC105KAT4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "3500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.079" L x 0.049" W (2.00mm x 1.25mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "478-7604-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.037" (0.94mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "10V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3v3 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=TX3 Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=TX6 Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=NetC8_2 Pin=U2-6
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U2-2
+Added Net: Name=NetC?_2
+Added Member To Class: ClassName=commucation Member=Component C6 1µF
+Added Member To Class: ClassName=commucation Member=Component C7 1µF
+Added Member To Class: ClassName=commucation Member=Component C8 1µF
+Added Member To Class: ClassName=commucation Member=Component C9 1µF
+Added Member To Class: ClassName=commucation Member=Component C? 1µF
+Added Member To Class: ClassName=commucation Member=Component J2 OQ0632510000G
+Added Member To Class: ClassName=commucation Member=Component U2 MAX3232CDWG4

@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=power Member=A3v3
+Removed Member From Class: ClassName=power Member=DI_GND
+Removed Member From Class: ClassName=power Member=DI_VCC
+Added Pin To Net: NetName=Y_TX2 Pin=D11-1
+Added Pin To Net: NetName=Y_RX2 Pin=D11-2
+Added Pin To Net: NetName=Y_TX1 Pin=D12-1
+Added Pin To Net: NetName=Y_RX1 Pin=D12-2
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=R22-1
+Added Net: Name=NetJ9_1
+Added Pin To Net: NetName=NetJ9_2 Pin=J9-2
+Added Pin To Net: NetName=NetJ9_2 Pin=R23-1
+Added Net: Name=NetJ9_2
+Added Pin To Net: NetName=NetJ9_4 Pin=J9-4
+Added Pin To Net: NetName=NetJ9_4 Pin=R20-1
+Added Net: Name=NetJ9_4
+Added Pin To Net: NetName=NetJ9_5 Pin=J9-5
+Added Pin To Net: NetName=NetJ9_5 Pin=R21-1
+Added Net: Name=NetJ9_5
+Added Member To Class: ClassName=High_current Member=Wire GND

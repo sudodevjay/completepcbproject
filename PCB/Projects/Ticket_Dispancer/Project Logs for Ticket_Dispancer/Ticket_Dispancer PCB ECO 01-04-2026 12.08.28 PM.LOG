@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetC61_2 Pin=D56-1
+Removed Pin From Net: NetName=GND Pin=D56-2
+Removed Pin From Net: NetName=NetC65_2 Pin=D56-3
+Removed Member From Class: ClassName=High_current Member=NetC65_1
+Change Component Footprint: Designator=D56 Old Footprint=SOIC245P670X290-4N New Footprint=SODFL4725X110N
+Change Component Comment : Designator=D56 Old Comment=MB10S New Comment=SS54FSH_M2G
+Change component parameters: Designator = "D56" ("D56"); Footprint = "SOIC245P670X290-4N"; UniqueID = "\MSEIENVB" ("\MSEIENVB")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SS54FSH%20M2G/taiwan/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SS54FSH M2G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS54FSH%20M2G/taiwan/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C65-1
+Added Pin To Net: NetName=NetC65_2 Pin=D56-A
+Added Pin To Net: NetName=NetC61_2 Pin=D56-C
+Added Pin To Net: NetName=GND Pin=J18-2
+Added Pin To Net: NetName=GND Pin=RV1-1
+Added Member To Class: ClassName=High_current Member=Wire GND

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetD6_2 Pin=U5-3
+Removed Pin From Net: NetName=NetU4_10 Pin=U5-4
+Removed Member From Class: ClassName=power Member=A3v3
+Removed Member From Class: ClassName=power Member=CGND
+Removed Member From Class: ClassName=power Member=DI_GND
+Removed Member From Class: ClassName=power Member=DI_VCC
+Added Pin To Net: NetName=NetU4_10 Pin=U5-3
+Added Pin To Net: NetName=NetD6_2 Pin=U5-4
+Added Member To Class: ClassName=High_current Member=Wire GND

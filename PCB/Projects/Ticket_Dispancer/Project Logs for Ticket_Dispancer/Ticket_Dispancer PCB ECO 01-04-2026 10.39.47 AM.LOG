@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=SPI2_CS Pin=J1-2
+Removed Pin From Net: NetName=SPI2_MOSI Pin=J1-3
+Removed Pin From Net: NetName=SPI2_MISO Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=SPI2_INT Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=5v Pin=J2-5
+Removed Member From Class: ClassName=main Member=J2
+Change Component Footprint: Designator=J1 Old Footprint=SULLINS NPPN051BFCN New Footprint=10 Pin 5X2Pos THT
+Change Component Comment : Designator=J1 Old Comment=NPPN051BFCN-RC New Comment=10 Pin 5X2Pos THT
+Change component parameters: Designator = "J1" ("J1"); Footprint = "SULLINS NPPN051BFCN"; UniqueID = "\PGJDLDZR" ("\PGJDLDZR")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MTSW-105-X-X-D-X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H5(ScrewHole_3.75mmD - duplicate)
+Added Component: Designator=H6(ScrewHole_3.75mmD - duplicate)
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=SPI2_CS Pin=J1-3
+Added Pin To Net: NetName=SPI2_INT Pin=J1-4
+Added Pin To Net: NetName=SPI2_MOSI Pin=J1-5
+Added Pin To Net: NetName=SPI2_MISO Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=5v Pin=J1-10
+Added Member To Class: ClassName=main Member=Component H5 ScrewHole_3.75mmD
+Added Member To Class: ClassName=main Member=Component H6 ScrewHole_3.75mmD

@@ -1,0 +1,8 @@
+Added Component: Designator=*(HOUSTON_LOGO)
+Added Component: Designator=H2(ScrewHole_3.75mmD - duplicate)
+Added Component: Designator=H3(ScrewHole_3.75mmD - duplicate)
+Added Component: Designator=H4(ScrewHole_3.75mmD - duplicate)
+Added Member To Class: ClassName=main Member=Component * HOUSTON_LOGO
+Added Member To Class: ClassName=main Member=Component H2 ScrewHole_3.75mmD
+Added Member To Class: ClassName=main Member=Component H3 ScrewHole_3.75mmD
+Added Member To Class: ClassName=main Member=Component H4 ScrewHole_3.75mmD

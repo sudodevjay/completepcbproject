@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Ticket_Dispancer.PrjPcb]
+   Generated File[Ticket_Dispancer_Copper_Signal_Top.gbr]
+   Generated File[Ticket_Dispancer_Copper_Signal_Bot.gbr]
+   Generated File[Ticket_Dispancer_Legend_Top.gbr]
+   Generated File[Ticket_Dispancer_Legend_Bot.gbr]
+   Generated File[Ticket_Dispancer_Soldermask_Top.gbr]
+   Generated File[Ticket_Dispancer_Soldermask_Bot.gbr]
+   Generated File[Ticket_Dispancer_Paste_Top.gbr]
+   Generated File[Ticket_Dispancer_Paste_Bot.gbr]
+   Generated File[Ticket_Dispancer_Profile.gbr]
+   Generated File[Ticket_Dispancer_NPTH_Drill.gbr]
+   Generated File[Ticket_Dispancer_PTH_Drill.gbr]
+   Generated File[Ticket_Dispancer.EXTREP]
+   Generated File[Ticket_Dispancer.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 6.10.31 PM On 09-04-2026

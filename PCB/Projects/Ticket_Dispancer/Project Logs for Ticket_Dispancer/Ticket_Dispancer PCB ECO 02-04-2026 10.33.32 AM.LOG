@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=TX6 Pin=D7-1
+Added Pin To Net: NetName=RX6 Pin=D7-2
+Added Pin To Net: NetName=RX3 Pin=D10-1
+Added Pin To Net: NetName=RX3 Pin=D10-2
+Added Pin To Net: NetName=RX3 Pin=R11-2
+Added Pin To Net: NetName=RX3 Pin=U6-14
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=R15-1
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=NetJ7_2 Pin=R17-1
+Added Net: Name=NetJ7_2
+Added Pin To Net: NetName=NetJ7_4 Pin=J7-4
+Added Pin To Net: NetName=NetJ7_4 Pin=R9-1
+Added Net: Name=NetJ7_4
+Added Pin To Net: NetName=NetJ7_5 Pin=J7-5
+Added Pin To Net: NetName=NetJ7_5 Pin=R11-1
+Added Net: Name=NetJ7_5

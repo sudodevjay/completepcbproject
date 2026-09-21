@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=High_current Member=NetC61_2
+Removed Member From Class: ClassName=High_current Member=NetC65_1
+Removed Member From Class: ClassName=High_current Member=NetC65_2
+Change Class Name : Old Net Name=High_current New Net Name=power
+Added Class: Name=High_current
