@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     15:13 Tuesday, April 07, 2026
+Project Path:       E:\Er.Vijay_Kushwah\PCB\RGB card\main.prj
+Design Path:        E:\Er.Vijay_Kushwah\PCB\RGB card\main.pcb
+Design Title:       
+Created:            04-02-2026 5.22.00 PM
+Last Saved:         07-04-2026 3.09.08 PM
+Editing Time:       1161 min
+Units:              mm (precision 1)
+
+
+Checking integrity of Schematic and Pcb designs in project "main"
+=================================================================
+
+
+End Of Report.

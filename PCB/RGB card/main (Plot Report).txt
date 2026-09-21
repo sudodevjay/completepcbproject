@@ -1,0 +1,333 @@
+Plot Report
+-----------
+
+Report Written:     10:22 Friday, July 17, 2026
+Project Path:       E:\Er.Vijay_Kushwah\PCB\RGB card\main.prj
+Design Path:        E:\Er.Vijay_Kushwah\PCB\RGB card\main.pcb
+Design Title:       
+Created:            04-02-2026 5.22.00 PM
+Last Saved:         17-07-2026 10.22.32 AM
+Editing Time:       1177 min
+Units:              mm (precision 1)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+Gerber Format: RS-274-X
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 2
+    Format 3.5 absolute in mm.
+    Zero suppression Leading
+
+
+
+Plots Output
+============
+
+    Plot Job: "E:\Er.Vijay_Kushwah\PCB\RGB card\main.mop"
+
+
+Gerber Output
+=============
+
+E:\Er.Vijay_Kushwah\PCB\RGB card\main - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 0.00
+    D11    Round 1.00
+    D12    Round 7.87
+    D13    Round 15.75
+    D14    Round 5.00
+    D15    Round 1.97
+    D16    Round 6.00
+    D17    Round 3.00
+    D18    Round 10.00
+    D19    Round 3.94
+
+Gerber Output
+=============
+
+E:\Er.Vijay_Kushwah\PCB\RGB card\main - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 0.00
+    D11    Round 1.00
+    D14    Round 5.00
+    D18    Round 10.00
+    D70    Round 15.00
+    D71    Round 31.50
+    D20    Round 50.00
+    D21    Round 25.00
+    D22    Round 48.00
+    D23    Round 32.00
+    D24    Round 236.22
+    D25    Rectangle 23.62 X 58.07
+    D26    Rectangle 23.62 X 58.07  Rotation 90
+    D27    Square 53.94
+    D28    Round 53.94
+    D29    Round 110.24
+    D72    Rectangle 55.00 X 60.00  Rotation 90
+    D73    Rectangle 24.00 X 87.00  Rotation 90
+    D74    Rectangle 23.62 X 51.18  Rotation 90
+    D75    Rectangle 55.00 X 60.00
+    D76    Square 60.00
+    D77    Round 60.00
+    D78    Rectangle 61.02 X 92.52  Rotation 90
+    D79    Round 62.99
+    D80    Rectangle 60.00 X 80.00  Rotation 90
+    D81    Rectangle 49.21 X 118.11
+
+Gerber Output
+=============
+
+E:\Er.Vijay_Kushwah\PCB\RGB card\main - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D82    Round 246.22
+    D83    Rectangle 33.62 X 68.07
+    D84    Rectangle 33.62 X 68.07  Rotation 90
+    D85    Square 63.94
+    D86    Round 63.94
+    D87    Round 120.24
+    D88    Rectangle 65.00 X 70.00  Rotation 90
+    D89    Rectangle 34.00 X 97.00  Rotation 90
+    D90    Rectangle 33.62 X 61.18  Rotation 90
+    D91    Rectangle 65.00 X 70.00
+    D92    Square 70.00
+    D93    Round 70.00
+    D94    Rectangle 71.02 X 102.52  Rotation 90
+    D95    Round 72.99
+    D96    Rectangle 70.00 X 90.00  Rotation 90
+    D97    Rectangle 59.21 X 128.11
+
+Gerber Output
+=============
+
+E:\Er.Vijay_Kushwah\PCB\RGB card\main - Top Paste Mask.gbr
+
+    Layers:
+    ------------------
+    Top Paste Mask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D98    Rectangle 17.62 X 52.07
+    D99    Rectangle 17.62 X 52.07  Rotation 90
+    D100   Rectangle 49.00 X 54.00  Rotation 90
+    D101   Rectangle 18.00 X 81.00  Rotation 90
+    D102   Rectangle 17.62 X 45.18  Rotation 90
+    D103   Rectangle 49.00 X 54.00
+    D104   Rectangle 55.02 X 86.52  Rotation 90
+    D105   Rectangle 43.21 X 112.11
+
+Gerber Output
+=============
+
+E:\Er.Vijay_Kushwah\PCB\RGB card\main - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D10    Round 0.00
+    D11    Round 1.00
+    D14    Round 5.00
+    D18    Round 10.00
+    D70    Round 15.00
+    D71    Round 31.50
+    D20    Round 50.00
+    D21    Round 25.00
+    D22    Round 48.00
+    D23    Round 32.00
+    D24    Round 236.22
+    D27    Square 53.94
+    D28    Round 53.94
+    D29    Round 110.24
+    D76    Square 60.00
+    D77    Round 60.00
+    D79    Round 62.99
+    D80    Rectangle 60.00 X 80.00  Rotation 90
+
+Gerber Output
+=============
+
+E:\Er.Vijay_Kushwah\PCB\RGB card\main - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 0.00
+    D11    Round 1.00
+
+Gerber Output
+=============
+
+E:\Er.Vijay_Kushwah\PCB\RGB card\main - Bottom Documentation.gbr
+
+    Layers:
+    ------------------------
+    Bottom Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+    D12    Round 7.87
+    D14    Round 5.00
+    D15    Round 1.97
+    D19    Round 3.94
+
+Gerber Output
+=============
+
+E:\Er.Vijay_Kushwah\PCB\RGB card\main - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D106   Round 37.50
+    D107   Round 54.00
+    D108   Round 38.00
+    D109   Round 242.22
+    D110   Square 59.94
+    D111   Round 59.94
+    D112   Round 116.24
+    D113   Square 66.00
+    D114   Round 66.00
+    D115   Round 68.99
+    D116   Rectangle 66.00 X 86.00  Rotation 90
+
+Gerber Output
+=============
+
+E:\Er.Vijay_Kushwah\PCB\RGB card\main - Bottom Paste Mask.gbr
+
+    Layers:
+    ---------------------
+    Bottom Paste Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+
+NC Drill Output
+===============
+
+E:\Er.Vijay_Kushwah\PCB\RGB card\main - NC Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.01575 inches 28    A
+    T002  0.01600 inches 3     J
+    T003  0.02400 inches 5     B
+    T004  0.03000 inches 2     I
+    T005  0.03200 inches 2     G
+    T006  0.03500 inches 5     F
+    T007  0.04016 inches 32    D
+    T008  0.04134 inches 2     H
+    T009  0.06693 inches 6     E
+    T010  0.13780 inches 4     C
+    --------------------------------------
+    Total                89
+    --------------------------------------
+
+E:\Er.Vijay_Kushwah\PCB\RGB card\main - NC Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+
+    Tool  Size Count   ID
+    ----------------------------
+    ----------------------------
+    Total      0
+    ----------------------------
+
+
+Gerber Output
+=============
+
+E:\Er.Vijay_Kushwah\PCB\RGB card\main - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    16    Y      100  Round A
+    24    Y      100  Round B
+    138   Y      100  Round C
+    40    Y      100  Round D
+    67    Y      100  Round E
+    35    Y      100  Round F
+    32    Y      100  Round G
+    41    Y      100  Round H
+    30    Y      100  Round I
+    16    Y      100  Round J
+
+    D-Code Shape  (thou)
+    -----------------------
+    D14    Round 5.00
+    D117   Round 100.00
+
+Gerber Output
+=============
+
+E:\Er.Vijay_Kushwah\PCB\RGB card\main - Border.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D14    Round 5.00
+
+End Of Report.

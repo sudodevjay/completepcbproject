@@ -1,0 +1,2 @@
+altium me sabse pahle codex se setting kar lo celestrial database se aur snapmagic ko integrate kar lo taki altium se hi koi bhi component ko directly use kar sako. aur mere pass use kiye hue pahle
+se hi kuch components hai so usko bhi integrate karo. schematic me kahi bhi right click karo aur preferences me jaao > data management > file based libraries > D:\pcblibrary\Libraries ye path me jaao aur sari files ko select karo aur install karo usse wo sari files aa jayegi

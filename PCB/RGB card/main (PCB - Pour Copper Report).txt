@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     10:21 Friday, July 17, 2026
+Project Path:       E:\Er.Vijay_Kushwah\PCB\RGB card\main.prj
+Design Path:        E:\Er.Vijay_Kushwah\PCB\RGB card\main.pcb
+Design Title:       
+Created:            04-02-2026 5.22.00 PM
+Last Saved:         17-07-2026 10.20.20 AM
+Editing Time:       1176 min
+Units:              mm (precision 1)
+
+
+End Of Report.

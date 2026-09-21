@@ -1,0 +1,15 @@
+../Core/Src/main.c:115:6:cs_sel	1
+../Core/Src/main.c:118:6:cs_desel	1
+../Core/Src/main.c:121:9:spi_rb	1
+../Core/Src/main.c:126:6:spi_wb	1
+../Core/Src/main.c:129:6:check_inputs	13
+../Core/Src/main.c:291:5:send_post_request	6
+../Core/Src/main.c:372:5:main	1
+../Core/Src/main.c:472:6:SystemClock_Config	3
+../Core/Src/main.c:518:13:MX_SPI1_Init	2
+../Core/Src/main.c:556:13:MX_TIM3_Init	4
+../Core/Src/main.c:601:13:MX_GPIO_Init	1
+../Core/Src/main.c:666:6:handle_server	5
+../Core/Src/main.c:729:6:Loop_Scanning	1
+../Core/Src/main.c:750:6:HAL_TIM_PeriodElapsedCallback	5
+../Core/Src/main.c:785:6:Error_Handler	1
