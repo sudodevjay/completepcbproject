@@ -1,0 +1,63 @@
+../Core/Src/Adafruit_Thermal_STM32.cpp:54:13:void timeoutSet(Adafruit_Thermal_t*, uint32_t)	56	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:60:13:void timeoutWait(Adafruit_Thermal_t*)	40	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:72:13:void writeByte(Adafruit_Thermal_t*, uint8_t)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:78:13:void writeBytes2(Adafruit_Thermal_t*, uint8_t, uint8_t)	24	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:85:13:void writeBytes3(Adafruit_Thermal_t*, uint8_t, uint8_t, uint8_t)	24	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:92:13:void writeBytes4(Adafruit_Thermal_t*, uint8_t, uint8_t, uint8_t, uint8_t)	24	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:99:13:void writeBytes5(Adafruit_Thermal_t*, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t)	24	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:106:13:void adjustCharValues(Adafruit_Thermal_t*, uint8_t)	24	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:129:13:void writePrintMode(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:133:13:void setPrintMode(Adafruit_Thermal_t*, uint8_t)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:139:13:void unsetPrintMode(Adafruit_Thermal_t*, uint8_t)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:147:6:void Adafruit_Thermal_Init(Adafruit_Thermal_t*, UART_HandleTypeDef*, GPIO_TypeDef*, uint16_t)	24	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:170:6:void Adafruit_Thermal_Begin(Adafruit_Thermal_t*, uint16_t)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:187:6:void Adafruit_Thermal_Reset(Adafruit_Thermal_t*)	24	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:203:6:void Adafruit_Thermal_SetDefault(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:217:6:void Adafruit_Thermal_Write(Adafruit_Thermal_t*, uint8_t)	24	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:238:6:void Adafruit_Thermal_Print(Adafruit_Thermal_t*, const char*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:244:6:void Adafruit_Thermal_Println(Adafruit_Thermal_t*, const char*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:249:6:void Adafruit_Thermal_PrintInt(Adafruit_Thermal_t*, int32_t)	32	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:255:6:void Adafruit_Thermal_PrintlnInt(Adafruit_Thermal_t*, int32_t)	32	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:261:6:void Adafruit_Thermal_Feed(Adafruit_Thermal_t*, uint8_t)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:274:6:void Adafruit_Thermal_FeedRows(Adafruit_Thermal_t*, uint8_t)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:281:6:void Adafruit_Thermal_Flush(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:285:6:void Adafruit_Thermal_Justify(Adafruit_Thermal_t*, char)	24	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:298:6:void Adafruit_Thermal_BoldOn(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:302:6:void Adafruit_Thermal_BoldOff(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:306:6:void Adafruit_Thermal_UnderlineOn(Adafruit_Thermal_t*, uint8_t)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:311:6:void Adafruit_Thermal_UnderlineOff(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:315:6:void Adafruit_Thermal_InverseOn(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:323:6:void Adafruit_Thermal_InverseOff(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:331:6:void Adafruit_Thermal_DoubleHeightOn(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:335:6:void Adafruit_Thermal_DoubleHeightOff(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:339:6:void Adafruit_Thermal_DoubleWidthOn(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:343:6:void Adafruit_Thermal_DoubleWidthOff(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:347:6:void Adafruit_Thermal_Normal(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:352:6:void Adafruit_Thermal_SetSize(Adafruit_Thermal_t*, char)	24	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:371:6:void Adafruit_Thermal_SetFont(Adafruit_Thermal_t*, char)	24	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:380:6:void Adafruit_Thermal_SetLineHeight(Adafruit_Thermal_t*, int)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:386:6:void Adafruit_Thermal_SetCharSpacing(Adafruit_Thermal_t*, int)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:390:6:void Adafruit_Thermal_Tab(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:395:6:void Adafruit_Thermal_SetBarcodeHeight(Adafruit_Thermal_t*, uint8_t)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:401:6:void Adafruit_Thermal_PrintBarcode(Adafruit_Thermal_t*, const char*, uint8_t)	40	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:428:6:void Adafruit_Thermal_SetHeatConfig(Adafruit_Thermal_t*, uint8_t, uint8_t, uint8_t)	24	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:432:6:void Adafruit_Thermal_SetPrintDensity(Adafruit_Thermal_t*, uint8_t, uint8_t)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:436:6:void Adafruit_Thermal_SetCharset(Adafruit_Thermal_t*, uint8_t)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:441:6:void Adafruit_Thermal_SetCodePage(Adafruit_Thermal_t*, uint8_t)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:446:6:void Adafruit_Thermal_Wake(Adafruit_Thermal_t*)	32	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:461:6:void Adafruit_Thermal_Sleep(Adafruit_Thermal_t*)	24	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:469:6:void Adafruit_Thermal_Offline(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:473:6:void Adafruit_Thermal_Online(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:477:6:bool Adafruit_Thermal_HasPaper(Adafruit_Thermal_t*)	24	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:497:6:void Adafruit_Thermal_SetTimes(Adafruit_Thermal_t*, uint32_t, uint32_t)	24	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:502:6:void Adafruit_Thermal_SetMaxChunkHeight(Adafruit_Thermal_t*, int)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:506:6:void Adafruit_Thermal_Test(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:511:6:void Adafruit_Thermal_TestPage(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:517:6:void Adafruit_Thermal_RxCallback(Adafruit_Thermal_t*, uint8_t)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:522:6:void Adafruit_Thermal_SetLeftMargin(Adafruit_Thermal_t*, uint8_t)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:532:6:void Adafruit_Thermal_PrintAndReturn(Adafruit_Thermal_t*, uint8_t)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:541:6:void Adafruit_Thermal_PrintAndFeed(Adafruit_Thermal_t*, uint8_t)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:550:6:void Adafruit_Thermal_FullCut(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:556:6:void Adafruit_Thermal_HalfCut(Adafruit_Thermal_t*)	16	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:607:6:void Adafruit_Thermal_PrintQRCodeWithSize(Adafruit_Thermal_t*, const char*, uint8_t)	96	static
+../Core/Src/Adafruit_Thermal_STM32.cpp:659:6:void Adafruit_Thermal_PrintQRCode(Adafruit_Thermal_t*, const char*)	16	static

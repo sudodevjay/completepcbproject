@@ -1,0 +1,29 @@
+../Core/Src/main.cc:173:6:void cs_sel()	1
+../Core/Src/main.cc:176:6:void cs_desel()	1
+../Core/Src/main.cc:179:9:uint8_t spi_rb()	1
+../Core/Src/main.cc:184:6:void spi_wb(uint8_t)	1
+../Core/Src/main.cc:187:6:void HAL_UART_RxCpltCallback(UART_HandleTypeDef*)	2
+../Core/Src/main.cc:195:6:void PrintTicket(Adafruit_Thermal_t*, uint32_t, RTC_TimeTypeDef*, RTC_DateTypeDef*)	1
+../Core/Src/main.cc:345:6:void EEPROM_WriteByte(uint16_t, uint8_t)	1
+../Core/Src/main.cc:357:9:uint8_t EEPROM_ReadByte(uint16_t)	1
+../Core/Src/main.cc:373:6:void EEPROM_WriteString(uint16_t, uint8_t, const char*)	2
+../Core/Src/main.cc:392:9:uint8_t EEPROM_ReadString(uint16_t, char*)	3
+../Core/Src/main.cc:418:6:bool ExtractLCDText(char*, uint8_t, char*, uint8_t)	7
+../Core/Src/main.cc:470:6:void ProcessSocketBuffer(char*)	14
+../Core/Src/main.cc:544:6:void process_Ticket_buffer(char*)	22
+../Core/Src/main.cc:668:6:void read_dis_settings()	1
+../Core/Src/main.cc:687:6:void Display_Task()	34
+../Core/Src/main.cc:872:15:GPIO_PinState ReadPinDebounced(GPIO_TypeDef*, uint16_t, GPIO_Debounce_t*)	3
+../Core/Src/main.cc:906:5:int main()	30
+../Core/Src/main.cc:1256:6:void SystemClock_Config()	4
+../Core/Src/main.cc:1311:13:void MX_I2C3_Init()	2
+../Core/Src/main.cc:1345:13:void MX_RTC_Init()	4
+../Core/Src/main.cc:1408:13:void MX_SPI1_Init()	2
+../Core/Src/main.cc:1446:13:void MX_UART4_Init()	2
+../Core/Src/main.cc:1479:13:void MX_UART5_Init()	2
+../Core/Src/main.cc:1512:13:void MX_USART2_UART_Init()	2
+../Core/Src/main.cc:1545:13:void MX_USART3_UART_Init()	2
+../Core/Src/main.cc:1578:13:void MX_USART6_UART_Init()	2
+../Core/Src/main.cc:1611:13:void MX_GPIO_Init()	1
+../Core/Src/main.cc:1679:6:void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef*, uint16_t)	5
+../Core/Src/main.cc:1700:6:void Error_Handler()	1
