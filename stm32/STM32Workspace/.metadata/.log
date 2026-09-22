@@ -1,0 +1,30 @@
+!SESSION 2026-09-21 18:15:40.571 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -application org.eclipse.cdt.managedbuilder.core.headlessbuild -import D:\Vijay\stm32\PGS_Zone_Split_Houston
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -application org.eclipse.cdt.managedbuilder.core.headlessbuild -data D:\Vijay\stm32\STM32Workspace -import D:\Vijay\stm32\PGS_Zone_Split_Houston
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-21 18:16:23.287
+!MESSAGE Indexed 'PGS_Zone_Split_Houston' (25 sources, 203 headers) in 28.6 sec: 19,477 declarations; 90,187 references; 1 unresolved inclusions; 92 syntax errors; 915 unresolved names (0.83%)
+!SESSION 2026-09-21 18:17:03.925 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Vijay\stm32\STM32Workspace
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-09-21 18:17:27.038
+!MESSAGE Log4j2 initialized with config file D:\Vijay\stm32\STM32Workspace\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-09-21 18:17:40.946
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+COM3
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-09-21 18:17:40.947
+!MESSAGE port: COM3
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-09-21 18:17:42.935
+!MESSAGE Started RMI Server, listening on port 41338
