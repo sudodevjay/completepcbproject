@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm4.h:1938:34:__NVIC_SystemReset	1
+../Core/Src/http_server.c:35:6:HTTPServer_Init	1
+../Core/Src/http_server.c:41:6:HTTPServer_Poll	7
+../Core/Src/http_server.c:75:13:close_and_relisten	1
+../Core/Src/http_server.c:85:13:handle_request	14
+../Core/Src/http_server.c:139:13:route_request	12
+../Core/Src/http_server.c:206:13:handle_login_post	3
+../Core/Src/http_server.c:224:13:handle_settings_post	14
+../Core/Src/http_server.c:258:13:send_http	3
+../Core/Src/http_server.c:277:13:send_redirect	1
+../Core/Src/http_server.c:284:13:send_404	1
+../Core/Src/http_server.c:289:13:send_login_page	2
+../Core/Src/http_server.c:321:13:send_settings_page	3
+../Core/Src/http_server.c:373:13:send_saved_page	1
+../Core/Src/http_server.c:388:13:url_decode	7
+../Core/Src/http_server.c:411:16:get_form_value	8
+../Core/Src/http_server.c:442:16:parse_ipv4	10

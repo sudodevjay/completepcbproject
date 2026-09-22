@@ -1,0 +1,17 @@
+../Drivers/CMSIS/Include/core_cm4.h:1938:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/http_server.c:35:6:HTTPServer_Init	8	static
+../Core/Src/http_server.c:41:6:HTTPServer_Poll	16	static
+../Core/Src/http_server.c:75:13:close_and_relisten	8	static
+../Core/Src/http_server.c:85:13:handle_request	56	static
+../Core/Src/http_server.c:139:13:route_request	152	static
+../Core/Src/http_server.c:206:13:handle_login_post	80	static
+../Core/Src/http_server.c:224:13:handle_settings_post	176	static
+../Core/Src/http_server.c:258:13:send_http	232	static
+../Core/Src/http_server.c:277:13:send_redirect	112	static
+../Core/Src/http_server.c:284:13:send_404	8	static
+../Core/Src/http_server.c:289:13:send_login_page	16	static
+../Core/Src/http_server.c:321:13:send_settings_page	344	static
+../Core/Src/http_server.c:373:13:send_saved_page	8	static
+../Core/Src/http_server.c:388:13:url_decode	40	static
+../Core/Src/http_server.c:411:16:get_form_value	112	static
+../Core/Src/http_server.c:442:16:parse_ipv4	56	static

@@ -1,0 +1,32 @@
+../Core/Inc/HWprofile.h:67:13:const char* mode_to_str(uint8_t)	2
+../Core/Inc/HWprofile.h:78:6:char color_to_char(uint8_t)	2
+../Core/Inc/HWprofile.h:88:6:void format_fixed(char*, long int, int, int)	4
+../Core/Inc/Read_key.h:14:15:unsigned char ReadKeyStt()	4
+../Core/Inc/Read_key.h:25:15:unsigned char ReadKey(unsigned char)	1
+../Core/Inc/Read_key.h:41:6:void keyprocess()	7
+../Core/Inc/AT24C512.h:13:9:uint8_t AT24C512_ReadByte(uint16_t)	1
+../Core/Inc/AT24C512.h:20:6:void AT24C512_WriteByte(uint16_t, uint8_t)	1
+../Core/Inc/Settings.h:31:6:void LCD_ShowInitScreen()	1
+../Core/Inc/Settings.h:46:6:void LCD_InitDots(uint8_t)	2
+../Core/Inc/Settings.h:72:6:void LCD_ShowDigits(LiquidCrystal_I2C&, uint8_t*, uint8_t, uint8_t)	4
+../Core/Inc/Settings.h:103:10:uint32_t SetV(uint32_t, uint8_t, uint8_t, LiquidCrystal_I2C&)	10
+../Core/Inc/Settings.h:152:5:int LCD_MenuSelect(LiquidCrystal_I2C&, const char**, uint8_t)	15
+../Core/Inc/Settings.h:239:6:void SetPSW()	2
+../Core/Inc/Settings.h:255:6:void setZoneID()	2
+../Core/Inc/Settings.h:272:6:void SetNumber_of_Display()	2
+../Core/Inc/Settings.h:290:6:void SetTotal_Sensor()	2
+../Core/Inc/Settings.h:348:6:void SetDisplay_Config()	2
+../Core/Inc/Settings.h:414:6:void Read_data()	2
+../Core/Src/main.cc:120:6:void DWT_Init()	1
+../Core/Src/main.cc:129:10:uint16_t calculate_diseng(uint8_t, uint8_t)	3
+../Core/Src/main.cc:141:6:void build_tx_packet(uint8_t)	1
+../Core/Src/main.cc:157:6:void send_scan_to_all_devices()	2
+../Core/Src/main.cc:229:6:void LCD_Show(uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t)	3
+../Core/Src/main.cc:261:6:void Update_All_Displays()	7
+../Core/Src/main.cc:346:6:void Send_Zone_Reply(UART_HandleTypeDef*, uint8_t, uint8_t, SensorData*, uint8_t, uint8_t, uint8_t, uint8_t)	4
+../Core/Src/main.cc:591:6:void SystemClock_Config()	3
+../Core/Src/main.cc:395:5:int main()	32
+../Core/Src/main.cc:899:6:void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef*, uint16_t)	14
+../Core/Src/main.cc:955:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	2
+../Core/Src/main.cc:970:6:void Error_Handler()	1
+../Core/Src/main.cc:979:1:cc)	1
